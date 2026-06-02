@@ -69,7 +69,7 @@ def cmd_export(args: argparse.Namespace) -> int:
     """Render the latest report to a static site folder (for GitHub Pages)."""
     import shutil
 
-    from .web import render_html
+    from .web import render_html, render_intelligence_html
 
     config = load_config(args.config)
     out = Path(args.out)
@@ -79,14 +79,18 @@ def cmd_export(args: argparse.Namespace) -> int:
     data = json.loads(latest.read_text(encoding="utf-8")) if latest.exists() else None
     refresh = int(config.dashboard.get("refresh_seconds", 300))
 
+    # Classic dashboard (unchanged) + the separate AI Intelligence page.
     (out / "index.html").write_text(render_html(data, refresh), encoding="utf-8")
+    (out / "newsroom-intelligence.html").write_text(
+        render_intelligence_html(data, refresh), encoding="utf-8"
+    )
     if latest.exists():
         shutil.copyfile(latest, out / "latest.json")
     # Tell GitHub Pages not to run Jekyll over our files.
     (out / ".nojekyll").write_text("", encoding="utf-8")
 
     n = len(data.get("clusters", [])) if data else 0
-    print(f"Exported static site -> {out}\\index.html  ({n} clusters)")
+    print(f"Exported static site -> {out}\\index.html + newsroom-intelligence.html  ({n} clusters)")
     return 0
 
 

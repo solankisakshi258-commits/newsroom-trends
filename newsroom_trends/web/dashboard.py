@@ -284,6 +284,9 @@ _PAGE = """<!doctype html>
   header h1 {{ margin:0; font-size:22px; letter-spacing:.2px; }}
   header .pill {{ font-size:11px; background:#1f6feb22; color:#7fb0ff; border:1px solid #1f6feb55;
                   padding:3px 10px; border-radius:999px; }}
+  header .navlink {{ font-size:12px; text-decoration:none; color:#c4b5fd; border:1px solid #7c3aed55;
+                     background:#7c3aed1a; padding:4px 11px; border-radius:8px; }}
+  header .navlink:hover {{ background:#7c3aed33; }}
   header .meta {{ color:#94a0b3; font-size:12.5px; margin-top:8px; }}
   header .updated {{ color:#5b6678; font-size:11.5px; margin-top:2px; }}
   .legend {{ color:#6b7588; font-size:11px; margin-top:10px; display:flex; gap:14px; flex-wrap:wrap; }}
@@ -347,7 +350,8 @@ _PAGE = """<!doctype html>
 <body>
 <header>
   <div class="top"><h1>📈 Newsroom Trends</h1>
-    <span class="pill">LIVE · auto-refresh {refresh}s</span></div>
+    <span class="pill">LIVE · auto-refresh {refresh}s</span>
+    <a class="navlink" href="newsroom-intelligence.html">🧠 AI Intelligence →</a></div>
   <div class="meta">{meta}</div>
   <div class="updated">{updated} · showing {count} stories</div>
   <div class="cats">{cats}</div>
@@ -382,6 +386,15 @@ def make_server(reports_dir: Path, host: str, port: int, refresh_seconds: int = 
             if self.path in ("/", "/index.html"):
                 data = _load_latest(reports_dir)
                 self._send(200, render_html(data, refresh_seconds).encode("utf-8"),
+                           "text/html; charset=utf-8")
+            elif self.path.rstrip("/") in (
+                "/newsroom-intelligence", "/newsroom-intelligence.html", "/intelligence"
+            ):
+                # Separate AI Intelligence dashboard (additive route; classic page untouched).
+                from .intelligence import render_intelligence_html
+
+                data = _load_latest(reports_dir)
+                self._send(200, render_intelligence_html(data, refresh_seconds).encode("utf-8"),
                            "text/html; charset=utf-8")
             elif self.path.startswith("/api/latest"):
                 data = _load_latest(reports_dir) or {}
