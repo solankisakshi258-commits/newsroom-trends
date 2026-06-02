@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/*.db
+data/reports/*.json
+data/alert_state.json
+data/last_webhook.json
+.pytest_cache/
+*.egg-info/
+
+# Keep data/history.json and docs/ tracked — CI commits them so the live Pages
+# dashboard accumulates interest-over-time history across runs.

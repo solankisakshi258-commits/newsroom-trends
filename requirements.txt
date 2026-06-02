@@ -1,0 +1,13 @@
+# Core (required for the RSS MVP — no API keys needed)
+feedparser>=6.0.11
+requests>=2.31.0
+PyYAML>=6.0.1
+python-dotenv>=1.0.1
+
+# Google Trends connector uses the public Daily Trends RSS feed via feedparser
+# (above) — no extra dependency. pytrends is NOT used: its trending_searches
+# endpoint now returns HTTP 404 after Google deprecated that API.
+
+# Optional: if installed, clustering will use scikit-learn TF-IDF instead of the
+# built-in pure-Python implementation. The pipeline runs fine WITHOUT this.
+# scikit-learn>=1.4.0

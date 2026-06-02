@@ -1,0 +1,65 @@
+name: Publish trends to GitHub Pages
+
+# Runs the pipeline in GitHub's cloud on a schedule, regenerates the static
+# dashboard into docs/, and commits it. GitHub Pages (Settings -> Pages ->
+# "Deploy from a branch" -> main / docs) then serves the updated site.
+#
+# data/history.json is committed each run, so interest-over-time history
+# accumulates across cloud runs even though Pages itself is static.
+
+on:
+  schedule:
+    # Twice an hour, off the top-of-hour to dodge Actions congestion.
+    # (GitHub cron is best-effort and may be delayed under load.)
+    - cron: "5,35 * * * *"
+  workflow_dispatch: {}          # lets you trigger a run manually from the Actions tab
+  push:
+    branches: [main]             # rebuild on every push to main
+
+permissions:
+  contents: write                # needed to commit the refreshed site + history
+
+concurrency:
+  group: publish-trends
+  cancel-in-progress: false      # never interrupt a run mid-commit
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline + export static site
+        env:
+          # Optional secrets — set them in Settings -> Secrets and variables -> Actions.
+          # Missing ones just mean that source/alert is skipped.
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+          ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+          PYTHONUTF8: "1"
+        run: |
+          python -m newsroom_trends.cli -v run --only rss,google_trends --alert
+          python -m newsroom_trends.cli export --out docs
+
+      - name: Commit refreshed site + history
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs data/history.json
+          if git diff --staged --quiet; then
+            echo "No changes to publish."
+          else
+            git commit -m "chore: refresh trends dashboard [skip ci]"
+            git push
+          fi

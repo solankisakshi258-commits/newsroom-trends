@@ -1,0 +1,95 @@
+# Newsroom Trends configuration.
+# Secrets do NOT go here — they live in .env (see .env.example).
+
+# Which sources to run. Each can be disabled without removing config.
+sources:
+  rss:
+    enabled: true
+  google_trends:
+    enabled: true
+    geo: IN
+    hl: hi-IN          # Hindi (India)
+    timeframe: now 1-d
+  youtube:
+    enabled: true       # skipped automatically if YOUTUBE_API_KEY is unset
+    region_code: IN
+    relevance_language: hi
+    max_results: 50
+  reddit:
+    enabled: true       # skipped automatically if Reddit creds are unset
+    subreddits: [india, IndiaSpeaks, bollywood, Cricket]
+    limit: 50
+  twitter:
+    enabled: true       # skipped automatically if TWITTER_BEARER_TOKEN is unset
+    queries: ["lang:hi -is:retweet", "India lang:hi -is:retweet"]
+    max_results: 50
+
+# Competitor Hindi news RSS feeds. Add/remove freely.
+competitors:
+  - name: Patrika
+    url: https://www.patrika.com/rss/india-news.xml
+  - name: ABP Live
+    url: https://www.abplive.com/home/feed
+  - name: Aaj Tak
+    url: https://www.aajtak.in/rss/category/india
+  - name: TV9 Hindi
+    url: https://www.tv9hindi.com/feed
+  - name: NDTV Hindi
+    url: https://feeds.feedburner.com/ndtvkhabar-latest
+  - name: Jagran
+    url: https://www.jagran.com/rss/news/national.xml
+  - name: Amar Ujala
+    url: https://www.amarujala.com/rss/india-news.xml
+
+# Story clustering: cosine similarity threshold for merging two signals into the
+# same story (0..1). Higher = tighter clusters.
+clustering:
+  similarity_threshold: 0.22
+  min_cluster_size: 1
+
+# Scoring weights. The opportunity score is a weighted blend; weights are normalized.
+scoring:
+  weights:
+    velocity: 0.40        # how fast the story is rising across sources
+    source_breadth: 0.25  # how many distinct source TYPES carry the story
+    engagement: 0.20      # likes/views/upvotes/search interest (normalized)
+    freshness: 0.15       # recency of the newest signal
+  # Competitor saturation penalty: a story already covered by many competitors is
+  # a weaker opportunity. 0 = no penalty, 1 = full penalty at max saturation.
+  competitor_penalty: 0.30
+  # A signal older than this many hours contributes ~0 freshness.
+  freshness_half_life_hours: 6
+
+# Where outputs land.
+storage:
+  db_path: data/trends.db
+  reports_dir: data/reports
+
+# Interest-over-time: a score snapshot per story is appended every run to this file,
+# building the sparkline you see on the dashboard. Committed by CI so history survives.
+history:
+  file: data/history.json
+  max_points: 48        # keep the last N snapshots per story (48 × 30min ≈ 24h)
+  prune_hours: 72       # drop stories not seen for this long
+
+# --- LIVE OPERATION ----------------------------------------------------------------
+
+# Recurring auto-runs (used by `schedule` and `live` commands, and the Docker image).
+schedule:
+  interval_minutes: 30
+  sources: [rss, google_trends]   # which connectors each run uses
+  window_hours: 24
+
+# Live web dashboard (used by `serve` and `live`). Binds 0.0.0.0 inside Docker.
+dashboard:
+  host: 127.0.0.1
+  port: 8787
+  refresh_seconds: 30             # browser auto-refresh interval
+
+# Push alerts for high-opportunity stories. Webhook URL comes from .env
+# (ALERT_WEBHOOK_URL) — works with Make.com custom webhooks and Slack incoming webhooks.
+alerts:
+  enabled: true
+  min_opportunity: 0.50           # only alert stories scoring at/above this
+  max_per_run: 5                  # cap alerts per run so the channel isn't flooded
+  resuppress_hours: 12            # don't re-alert the same story within this window

@@ -1,0 +1,15 @@
+services:
+  newsroom-trends:
+    build: .
+    container_name: newsroom-trends
+    restart: unless-stopped
+    ports:
+      - "8787:8787"        # dashboard -> http://localhost:8787
+    env_file:
+      - .env               # API keys + ALERT_WEBHOOK_URL (optional; file may be absent)
+    volumes:
+      - trends-data:/app/data        # persist SQLite + reports across restarts
+      - ./config.yaml:/app/config.yaml:ro   # edit config without rebuilding
+
+volumes:
+  trends-data:
