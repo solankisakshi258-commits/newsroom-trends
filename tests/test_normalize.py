@@ -1,5 +1,10 @@
 from newsroom_trends.models import SourceType
-from newsroom_trends.normalize import clean_text, normalize, normalize_all
+from newsroom_trends.normalize import (
+    clean_text,
+    has_disallowed_script,
+    normalize,
+    normalize_all,
+)
 
 from .factories import raw
 
@@ -27,3 +32,28 @@ def test_normalize_all_dedups_by_url():
 
 def test_normalize_all_skips_empty_titles():
     assert normalize_all([raw("")]) == []
+
+
+def test_has_disallowed_script_detects_other_languages():
+    assert has_disallowed_script("எடப்பாடி கே. பழனிசாமி")   # Tamil
+    assert has_disallowed_script("ఇందిరమ్మ ఇళ్ల పథకం")        # Telugu
+    assert has_disallowed_script("ঋতব্রত ব্যানার্জী")          # Bengali
+    assert not has_disallowed_script("शशि थरूर")               # Hindi (Devanagari) ok
+    assert not has_disallowed_script("elina svitolina")        # English (Latin) ok
+    assert not has_disallowed_script("मोदी government 2026")   # Hindi+English mix ok
+
+
+def test_normalize_all_keeps_only_english_and_hindi():
+    raws = [
+        raw("शशि थरूर"),                 # Hindi -> keep
+        raw("elina svitolina"),          # English -> keep
+        raw("எடப்பாடி கே. பழனிசாமி"),    # Tamil -> drop
+        raw("ఇందిరమ్మ ఇళ్ల పథకం"),       # Telugu -> drop
+    ]
+    titles = {s.title for s in normalize_all(raws, restrict_languages=True)}
+    assert titles == {"शशि थरूर", "elina svitolina"}
+
+
+def test_normalize_all_can_disable_language_filter():
+    raws = [raw("எடப்பாடி கே. பழனிசாமி")]
+    assert len(normalize_all(raws, restrict_languages=False)) == 1

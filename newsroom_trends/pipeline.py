@@ -8,12 +8,13 @@ from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 
+from .categorize import categorize_clusters
 from .clustering import cluster_signals
 from .config import Config
 from .connectors import build_connectors
 from .history import record_and_attach
 from .models import RawSignal, Signal, TrendReport
-from .normalize import normalize_all
+from .normalize import has_disallowed_script, normalize_all
 from .scoring import score_clusters
 from .storage import SignalRepository
 
@@ -43,9 +44,10 @@ def run_pipeline(
         except Exception as exc:  # defensive: a connector bug must not kill the run
             log.exception("connector %s crashed: %s", conn.name, exc)
 
-    # 2. Normalize + dedup --------------------------------------------------------
-    signals = normalize_all(raws)
-    log.info("Normalized to %d unique signals", len(signals))
+    # 2. Normalize + dedup (drop non English/Hindi topics if configured) ----------
+    restrict = bool(config.raw.get("filtering", {}).get("english_hindi_only", True))
+    signals = normalize_all(raws, restrict_languages=restrict)
+    log.info("Normalized to %d unique signals (english_hindi_only=%s)", len(signals), restrict)
 
     # 3. Store (dedup persists across runs, enabling cross-run history) ------------
     repo = SignalRepository.open(config.db_path)
@@ -60,6 +62,11 @@ def run_pipeline(
     if not windowed:
         windowed = signals  # first run / empty db fallback
 
+    # The stored window can contain signals from older runs (e.g. before a filter was
+    # added), so re-apply the language restriction here too.
+    if restrict:
+        windowed = [s for s in windowed if not has_disallowed_script(s.title)]
+
     # 4. Cluster ------------------------------------------------------------------
     cl_cfg = config.clustering
     clusters = cluster_signals(
@@ -69,8 +76,9 @@ def run_pipeline(
     )
     log.info("Formed %d story clusters", len(clusters))
 
-    # 5. Score --------------------------------------------------------------------
+    # 5. Score + categorise -------------------------------------------------------
     clusters = score_clusters(clusters, config.scoring, window_hours=window_hours)
+    categorize_clusters(clusters)
 
     # 5b. Record interest-over-time history + attach the series to each cluster.
     try:

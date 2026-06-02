@@ -41,6 +41,11 @@ competitors:
   - name: Amar Ujala
     url: https://www.amarujala.com/rss/india-news.xml
 
+# Topic language filter: keep only English (Latin) + Hindi (Devanagari) topics and
+# drop everything else (Tamil, Telugu, Bengali, Arabic, CJK, …).
+filtering:
+  english_hindi_only: true
+
 # Story clustering: cosine similarity threshold for merging two signals into the
 # same story (0..1). Higher = tighter clusters.
 clustering:

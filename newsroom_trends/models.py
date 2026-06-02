@@ -93,6 +93,7 @@ class StoryCluster:
     opportunity: float = 0.0  # final blended, penalty-adjusted score
     angles: list[str] = field(default_factory=list)  # Discover framing hints
     history: list[dict[str, Any]] = field(default_factory=list)  # interest-over-time points
+    category: str = "General"  # editorial category (Politics, Sports, …)
 
     @property
     def source_types(self) -> set[SourceType]:

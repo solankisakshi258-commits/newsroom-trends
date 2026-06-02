@@ -22,6 +22,7 @@ def _sample():
                 "opportunity": 0.635,
                 "velocity": 0.7, "source_breadth": 0.2, "engagement": 1.0,
                 "freshness": 0.4, "competitor_saturation": 0.5,
+                "category": "Politics",
                 "keywords": ["protest", "exam"],
                 "angles": ["High search intent"],
                 "signals": [{
@@ -67,6 +68,12 @@ def test_render_shows_relevant_url():
     assert "https://news.example/article" in out   # relevant trend URL (req 6)
     assert "Example News" in out                   # related-source label
     assert "https://trends.google.com/trends/explore?q=x" in out  # title -> explore
+
+
+def test_render_shows_category():
+    out = render_html(_sample())
+    assert "Politics" in out          # category pill + header chip
+    assert "class='cat'" in out or 'class="cat"' in out
 
 
 def test_history_sparkline_new_when_insufficient():

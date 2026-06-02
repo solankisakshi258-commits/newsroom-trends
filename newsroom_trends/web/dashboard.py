@@ -36,6 +36,27 @@ _METRICS = [
     ("Brd", "source_breadth", "#f59e0b"),
 ]
 
+# Per-category accent colors for the category pill.
+_CATEGORY_COLORS = {
+    "Politics": "#ff7a7a",
+    "Cricket & Sports": "#4ade80",
+    "Entertainment": "#e879f9",
+    "Business & Economy": "#fbbf24",
+    "Crime & Law": "#f87171",
+    "Technology": "#60a5fa",
+    "Auto": "#22d3ee",
+    "Weather & Disaster": "#38bdf8",
+    "Health": "#34d399",
+    "Education": "#a78bfa",
+    "World": "#fb923c",
+    "Religion & Festival": "#f0abfc",
+    "General": "#94a0b3",
+}
+
+
+def _category_color(cat: str) -> str:
+    return _CATEGORY_COLORS.get(cat, "#94a0b3")
+
 
 def _load_latest(reports_dir: Path) -> dict | None:
     latest = reports_dir / "latest.json"
@@ -142,7 +163,7 @@ def render_html(data: dict | None, refresh_seconds: int = 30) -> str:
             "shortly, or run <code>python -m newsroom_trends.cli run</code>.</div>"
         )
         return _PAGE.format(refresh=refresh_seconds, meta="", rows=body, count=0,
-                            updated="")
+                            updated="", cats="")
 
     sb = data.get("source_breakdown", {})
     sb_str = " · ".join(f"{k}:{v}" for k, v in sb.items())
@@ -151,11 +172,21 @@ def render_html(data: dict | None, refresh_seconds: int = 30) -> str:
         f"{data.get('signal_count',0)} signals &nbsp;•&nbsp; {html.escape(sb_str)}"
     )
     updated = f"updated {_rel_time(data.get('generated_at'), now)}"
-    clusters = data.get("clusters", [])[:40]
+    all_clusters = data.get("clusters", [])
+    # Category counts across the whole report, most common first.
+    cat_counts: dict[str, int] = {}
+    for c in all_clusters:
+        cat = c.get("category", "General")
+        cat_counts[cat] = cat_counts.get(cat, 0) + 1
+    cat_chips = "".join(
+        f"<span class='catchip' style='--cat:{_category_color(k)}'>{html.escape(k)} {v}</span>"
+        for k, v in sorted(cat_counts.items(), key=lambda kv: -kv[1])
+    )
+    clusters = all_clusters[:40]
     rows = "\n".join(_render_row(i, c, now) for i, c in enumerate(clusters, 1))
     rows = rows or "<div class='empty'>No clusters in latest report.</div>"
     return _PAGE.format(refresh=refresh_seconds, meta=meta, rows=rows,
-                        count=len(clusters), updated=html.escape(updated))
+                        count=len(clusters), updated=html.escape(updated), cats=cat_chips)
 
 
 def _render_row(rank: int, c: dict, now: datetime) -> str:
@@ -217,6 +248,7 @@ def _render_row(rank: int, c: dict, now: datetime) -> str:
     <div class="row">
       <div class="c-rank">{rank}</div>
       <div class="c-trend">
+        <div class="cat" style="--cat:{_category_color(c.get('category','General'))}">{html.escape(c.get('category','General'))}</div>
         <div class="label">{label_html}</div>
         {badges_html}
         <div class="links">{link_html}</div>
@@ -266,6 +298,14 @@ _PAGE = """<!doctype html>
   .row:hover {{ border-color:#33405a; transform:translateY(-1px); }}
   .c-rank {{ font-size:20px; font-weight:700; color:#48526a; text-align:center; }}
   .c-trend {{ min-width:0; }}
+  .cat {{ display:inline-block; font-size:10px; font-weight:700; letter-spacing:.4px;
+          text-transform:uppercase; color:var(--cat); border:1px solid var(--cat);
+          background:color-mix(in srgb, var(--cat) 14%, transparent);
+          padding:1px 8px; border-radius:5px; margin-bottom:5px; }}
+  .cats {{ margin-top:10px; display:flex; gap:6px; flex-wrap:wrap; }}
+  .catchip {{ font-size:11px; color:var(--cat); border:1px solid var(--cat);
+              background:color-mix(in srgb, var(--cat) 12%, transparent);
+              padding:2px 9px; border-radius:999px; }}
   .label {{ font-size:16px; font-weight:650; line-height:1.35; }}
   .label a {{ color:#eef1f6; text-decoration:none; }}
   .label a:hover {{ color:#9ec1ff; text-decoration:underline; }}
@@ -310,6 +350,7 @@ _PAGE = """<!doctype html>
     <span class="pill">LIVE · auto-refresh {refresh}s</span></div>
   <div class="meta">{meta}</div>
   <div class="updated">{updated} · showing {count} stories</div>
+  <div class="cats">{cats}</div>
   <div class="legend">
     <span><b>Line:</b> opportunity over time (green rising / red falling)</span>
     <span><b>Bars:</b> Vel · Eng · Frsh · Brd (each 0–1)</span>
