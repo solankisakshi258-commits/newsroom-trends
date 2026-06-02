@@ -57,6 +57,7 @@ def analyze_report(
         ),
         "high_discover": sum(1 for c in clusters if c.get("_discover", {}).get("tier") == "High"),
         "rising": sum(1 for c in clusters if c.get("_forecast", {}).get("direction") == "up"),
+        "first_mover": sum(1 for c in clusters if c.get("_competitor", {}).get("first_mover")),
         "top_category": cats.most_common(1)[0][0] if cats else "—",
         "avg_opportunity": round(sum(c.get("opportunity", 0.0) for c in clusters) / n, 3) if n else 0.0,
     }

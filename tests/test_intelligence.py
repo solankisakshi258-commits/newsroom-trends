@@ -121,10 +121,39 @@ def test_render_intelligence_html_has_all_features():
     for needle in [
         "Newsroom AI Intelligence", "Traffic Opportunity", "Discover Potential",
         "Forecast", "Competitor analysis", "Story angles",
-        "index.html",          # back-nav to classic dashboard
-        "Cricket & Sports",
+        "index.html",                 # back-nav to classic dashboard
+        "Cricket &amp; Sports",        # category rendered (HTML-escaped &)
     ]:
         assert needle in out, f"missing: {needle}"
+
+
+def test_render_has_actionable_kpis_not_raw_counts():
+    out = render_intelligence_html(_report())
+    for kpi in ["Emerging trends", "High Discover potential", "First-mover gaps",
+                "Cross-platform breakouts"]:
+        assert kpi in out, f"missing actionable KPI: {kpi}"
+
+
+def test_render_has_clickable_filter_buttons():
+    out = render_intelligence_html(_report())
+    # source filters
+    assert "All sources" in out
+    assert "Google Trends" in out and "RSS" in out
+    assert "data-dim='source'" in out
+    # category filters
+    assert "All categories" in out
+    assert "data-dim='category'" in out
+    # view (KPI) filters + filtering script
+    assert "data-dim='view'" in out
+    assert "addEventListener" in out and "niFilters" in out
+
+
+def test_cards_have_filter_data_attributes():
+    out = render_intelligence_html(_report())
+    assert "data-sources=" in out
+    assert "data-category=" in out
+    assert "data-emerging=" in out
+    assert "data-discover=" in out
 
 
 def test_render_intelligence_empty():
