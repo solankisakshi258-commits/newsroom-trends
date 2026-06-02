@@ -20,9 +20,11 @@ sources:
     subreddits: [india, IndiaSpeaks, bollywood, Cricket]
     limit: 50
   twitter:
-    enabled: true       # skipped automatically if TWITTER_BEARER_TOKEN is unset
-    queries: ["lang:hi -is:retweet", "India lang:hi -is:retweet"]
-    max_results: 50
+    enabled: true       # works WITHOUT a token via best-effort scrape (trends24.in);
+                        # if TWITTER_BEARER_TOKEN is set, uses the official X API instead
+    region_path: india  # trends24 region for the scrape mode
+    max_results: 30
+    queries: ["lang:hi -is:retweet", "India lang:hi -is:retweet"]  # used only in API mode
 
 # Competitor Hindi news RSS feeds. Add/remove freely.
 competitors:
@@ -82,7 +84,7 @@ history:
 # Recurring auto-runs (used by `schedule` and `live` commands, and the Docker image).
 schedule:
   interval_minutes: 30
-  sources: [rss, google_trends]   # which connectors each run uses
+  sources: [rss, google_trends, twitter]   # which connectors each run uses
   window_hours: 24
 
 # Live web dashboard (used by `serve` and `live`). Binds 0.0.0.0 inside Docker.
