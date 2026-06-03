@@ -95,6 +95,45 @@ def _rep_signal(cluster: dict) -> dict:
     return max(sigs, key=lambda s: s.get("engagement", 0.0))
 
 
+def _earliest_iso(cluster: dict) -> str:
+    """ISO time the story FIRST appeared (earliest signal). Used for the displayed age,
+    so it reflects when the news broke, not when a trend tracker later noticed it."""
+    times = [s.get("published_at") for s in cluster.get("signals", []) if s.get("published_at")]
+    if not times:
+        return ""
+    try:
+        return min(times, key=lambda t: datetime.fromisoformat(t))
+    except (ValueError, TypeError):
+        return min(times)
+
+
+# Shared client-side script: render every [data-ts] element as a LIVE relative time
+# ("3h ago") computed in the viewer's browser — so it never goes stale on a static page —
+# and put the exact IST timestamp in the tooltip. Re-runs every minute.
+TIME_JS = """
+(function(){
+  function ago(iso){
+    var t = Date.parse(iso); if (isNaN(t)) return '';
+    var s = (Date.now() - t)/1000; if (s < 0) s = 0;
+    if (s < 60)    return Math.floor(s) + 's ago';
+    if (s < 3600)  return Math.floor(s/60) + 'm ago';
+    if (s < 86400) return Math.floor(s/3600) + 'h ago';
+    return Math.floor(s/86400) + 'd ago';
+  }
+  function render(){
+    document.querySelectorAll('[data-ts]').forEach(function(el){
+      var iso = el.getAttribute('data-ts'); if (!iso) return;
+      el.textContent = ago(iso);
+      try { el.title = new Date(iso).toLocaleString('en-IN',
+        {timeZone:'Asia/Kolkata', dateStyle:'medium', timeStyle:'short'}) + ' IST'; } catch(e){}
+    });
+  }
+  document.addEventListener('DOMContentLoaded', render);
+  setInterval(render, 60000);
+})();
+"""
+
+
 def _history_sparkline(cluster: dict) -> str:
     """Inline SVG line of opportunity-over-time across runs (interest-over-time).
 
@@ -163,7 +202,7 @@ def render_html(data: dict | None, refresh_seconds: int = 30) -> str:
             "shortly, or run <code>python -m newsroom_trends.cli run</code>.</div>"
         )
         return _PAGE.format(refresh=refresh_seconds, meta="", rows=body, count=0,
-                            updated="", cats="")
+                            updated="", cats="", time_script=TIME_JS)
 
     sb = data.get("source_breakdown", {})
     sb_str = " · ".join(f"{k}:{v}" for k, v in sb.items())
@@ -171,7 +210,8 @@ def render_html(data: dict | None, refresh_seconds: int = 30) -> str:
         f"window {data.get('window_hours','?')}h &nbsp;•&nbsp; "
         f"{data.get('signal_count',0)} signals &nbsp;•&nbsp; {html.escape(sb_str)}"
     )
-    updated = f"updated {_rel_time(data.get('generated_at'), now)}"
+    gen = html.escape(data.get("generated_at") or "")
+    updated = f"updated <span class='ago' data-ts='{gen}'></span>"
     all_clusters = data.get("clusters", [])
     # Category counts across the whole report, most common first.
     cat_counts: dict[str, int] = {}
@@ -186,7 +226,8 @@ def render_html(data: dict | None, refresh_seconds: int = 30) -> str:
     rows = "\n".join(_render_row(i, c, now) for i, c in enumerate(clusters, 1))
     rows = rows or "<div class='empty'>No clusters in latest report.</div>"
     return _PAGE.format(refresh=refresh_seconds, meta=meta, rows=rows,
-                        count=len(clusters), updated=html.escape(updated), cats=cat_chips)
+                        count=len(clusters), updated=updated, cats=cat_chips,
+                        time_script=TIME_JS)
 
 
 def _render_row(rank: int, c: dict, now: datetime) -> str:
@@ -200,7 +241,7 @@ def _render_row(rank: int, c: dict, now: datetime) -> str:
     explore_url = extra.get("explore_url") or rep.get("url")
     article_url = rep.get("url")
     traffic = extra.get("approx_traffic")
-    when = _rel_time(rep.get("published_at"), now)
+    ets = _earliest_iso(c)  # live, browser-computed age (see TIME_JS)
 
     # Title links to the trend (explore page if present, else the article).
     title_target = explore_url or article_url
@@ -213,8 +254,8 @@ def _render_row(rank: int, c: dict, now: datetime) -> str:
     badges = []
     if traffic:
         badges.append(f"<span class='vol'>🔍 {html.escape(str(traffic))} searches</span>")
-    if when:
-        badges.append(f"<span class='when'>🕒 {html.escape(when)}</span>")
+    if ets:
+        badges.append(f"🕒 <span class='when' data-ts='{html.escape(ets)}'></span>")
     badges_html = f"<div class='badges'>{''.join(badges)}</div>" if badges else ""
 
     # Relevant article link (req 6).
@@ -365,6 +406,7 @@ _PAGE = """<!doctype html>
   <div class="head-row"><div>#</div><div>Trend</div><div>Source</div><div>Graphs</div><div>Score</div></div>
   {rows}
 </div>
+<script>{time_script}</script>
 </body></html>"""
 
 

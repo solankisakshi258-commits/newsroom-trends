@@ -46,7 +46,9 @@ def _sample():
 def test_render_escapes_label():
     out = render_html(_sample())
     assert "शशि थरूर" in out
-    assert "<script>" not in out  # escaped, not injected
+    # The label's "<script>" must be escaped, not injected as a real tag.
+    assert "&lt;script&gt;" in out
+    assert "शशि थरूर <script>" not in out
 
 
 def test_render_shows_score_and_graph():

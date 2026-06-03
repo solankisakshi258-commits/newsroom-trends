@@ -17,7 +17,9 @@ from datetime import datetime, timezone
 
 from ..intelligence import analyze_report
 from .dashboard import (
+    TIME_JS,
     _category_color,
+    _earliest_iso,
     _history_sparkline,
     _load_latest,
     _metric_graph,
@@ -52,7 +54,7 @@ def render_intelligence_html(data: dict | None, refresh_seconds: int = 60) -> st
         body = ("<div class='empty'>No report yet. The scheduler will populate this "
                 "shortly, or run <code>python -m newsroom_trends.cli run</code>.</div>")
         return _PAGE.format(refresh=refresh_seconds, updated="", kpis="", filters="",
-                            body=body, script=_JS)
+                            body=body, script=_JS + TIME_JS)
 
     intel = analyze_report(data)
     clusters = intel["data"]["clusters"]
@@ -62,7 +64,8 @@ def render_intelligence_html(data: dict | None, refresh_seconds: int = 60) -> st
     show = set(ranked[:MAX_STORIES])
     shown = [i for i in ranked if i in show]
 
-    updated = f"updated {_rel_time(data.get('generated_at'), now)}"
+    gen = html.escape(data.get("generated_at") or "")
+    updated = f"updated <span class='ago' data-ts='{gen}'></span>"
 
     # --- actionable headline metrics (clickable view filters) ----------------------
     kpis = _kpi_cards(summary, len(shown))
@@ -92,8 +95,8 @@ def render_intelligence_html(data: dict | None, refresh_seconds: int = 60) -> st
                 if sections else "")
         body += f"<section class='topic'>{head}<div class='cards'>{cards}</div></section>"
 
-    return _PAGE.format(refresh=refresh_seconds, updated=html.escape(updated),
-                        kpis=kpis, filters=filters, body=body, script=_JS)
+    return _PAGE.format(refresh=refresh_seconds, updated=updated,
+                        kpis=kpis, filters=filters, body=body, script=_JS + TIME_JS)
 
 
 def _kpi_cards(summary: dict, shown_count: int) -> str:
@@ -129,10 +132,16 @@ def _filter_bar(sources_present: list[str], cat_counts: Counter) -> str:
             f"<button class='fbtn' data-dim='category' data-val='{html.escape(cat)}'>"
             f"{html.escape(cat)} <span class='fn'>{n}</span></button>"
         )
+    sort_btns = (
+        "<button class='fbtn active' data-dim='sort' data-val='opp'>Opportunity</button>"
+        "<button class='fbtn' data-dim='sort' data-val='traffic'>🔝 Traffic</button>"
+        "<button class='fbtn' data-dim='sort' data-val='fresh'>Freshness</button>"
+    )
     return (
         "<div class='filters'>"
         f"<div class='frow'><span class='fl'>Source</span>{''.join(src_btns)}</div>"
         f"<div class='frow'><span class='fl'>Category</span>{''.join(cat_btns)}</div>"
+        f"<div class='frow'><span class='fl'>Sort by</span>{sort_btns}</div>"
         "<div class='frow'><span class='fl'>Showing</span>"
         "<span id='count' class='count'></span></div>"
         "</div>"
@@ -166,7 +175,7 @@ def _intel_card(c: dict, now: datetime) -> str:
     explore_url = extra.get("explore_url") or rep.get("url")
     article_url = rep.get("url")
     traffic = extra.get("approx_traffic")
-    when = _rel_time(rep.get("published_at"), now)
+    ets = _earliest_iso(c)  # live, browser-computed age (see TIME_JS)
     title_target = explore_url or article_url
     label_html = (f"<a href='{html.escape(title_target)}' target='_blank' rel='noopener'>{label}</a>"
                   if title_target else label)
@@ -178,8 +187,8 @@ def _intel_card(c: dict, now: datetime) -> str:
     badges = []
     if traffic:
         badges.append(f"<span class='vol'>🔍 {html.escape(str(traffic))}</span>")
-    if when:
-        badges.append(f"<span class='when'>🕒 {html.escape(when)}</span>")
+    if ets:
+        badges.append(f"🕒 <span class='when' data-ts='{html.escape(ets)}'></span>")
     badges_html = f"<div class='badges'>{''.join(badges)}</div>" if badges else ""
 
     disc = c.get("_discover", {})
@@ -219,14 +228,17 @@ def _intel_card(c: dict, now: datetime) -> str:
         items = "".join(f"<li>{html.escape(a)}</li>" for a in angles[:4])
         angles_html = f"<div class='block'><div class='sec-lbl'>Story angles</div><ul class='angles'>{items}</ul></div>"
 
-    # data-* attributes drive the client-side filters
+    # data-* attributes drive the client-side filters + sorting
+    traffic_val = float(rep.get("engagement", 0.0) or 0.0)  # raw search/tweet volume
     attrs = (
         f"data-sources=\"{html.escape(' '.join(srcs))}\" "
         f"data-category=\"{html.escape(cat)}\" "
         f"data-emerging=\"{1 if fc.get('direction') == 'up' else 0}\" "
         f"data-discover=\"{html.escape(disc.get('tier', 'Low'))}\" "
         f"data-firstmover=\"{1 if comp.get('first_mover') else 0}\" "
-        f"data-cross=\"{1 if len(srcs) > 1 else 0}\""
+        f"data-cross=\"{1 if len(srcs) > 1 else 0}\" "
+        f"data-opp=\"{opp:.4f}\" data-traffic=\"{traffic_val:.0f}\" "
+        f"data-fresh=\"{float(c.get('freshness', 0.0)):.4f}\""
     )
     return f"""
       <article class="card" {attrs}>
@@ -258,10 +270,22 @@ def _intel_card(c: dict, now: datetime) -> str:
 
 _JS = """
 (function(){
-  var state = {source:'all', category:'all', view:'all'};
+  var state = {source:'all', category:'all', view:'all', sort:'opp'};
   try { Object.assign(state, JSON.parse(sessionStorage.getItem('niFilters')||'{}')); } catch(e){}
 
+  function sortCards(){
+    var key = state.sort === 'traffic' ? 'traffic' : (state.sort === 'fresh' ? 'fresh' : 'opp');
+    document.querySelectorAll('.cards').forEach(function(grid){
+      var cards = Array.prototype.slice.call(grid.querySelectorAll('.card'));
+      cards.sort(function(a, b){
+        return parseFloat(b.dataset[key] || 0) - parseFloat(a.dataset[key] || 0);
+      });
+      cards.forEach(function(c){ grid.appendChild(c); });  // re-append in sorted order
+    });
+  }
+
   function apply(){
+    sortCards();
     var cards = document.querySelectorAll('.card'), n = 0;
     cards.forEach(function(c){
       var okS = state.source==='all' || (c.dataset.sources||'').split(' ').indexOf(state.source) >= 0;
