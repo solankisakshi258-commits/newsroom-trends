@@ -1587,6 +1587,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -2843,7 +2850,7 @@
     ]
   },
   "1187c0b5e46c584c": {
-    "label": "Argentina",
+    "label": "argentina",
     "points": [
       {
         "ts": "2026-07-16T06:01:06.933424+00:00",
@@ -2872,6 +2879,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.7086,
+        "engagement": 0.9089,
+        "velocity": 0.8374,
+        "signals": 2
       }
     ]
   },
@@ -3447,100 +3461,6 @@
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "5dbda0216ec9b52c": {
-    "label": "Hyderabad School Kalma Controversy : 'कलमा होमवर्क' देने के विरोध में उतरे भाजपाई, हुआ भारी हंगामा",
-    "points": [
-      {
-        "ts": "2026-07-16T12:05:44.923880+00:00",
-        "opportunity": 0.1272,
-        "engagement": 0.0,
-        "velocity": 0.1374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-07-16T14:35:30.126121+00:00",
-        "opportunity": 0.111,
-        "engagement": 0.0,
-        "velocity": 0.1374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-07-16T16:37:18.904111+00:00",
-        "opportunity": 0.0987,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T18:15:59.075296+00:00",
-        "opportunity": 0.0976,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.0951,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.0925,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "9514452d6f25704e": {
-    "label": "क्या है 'कलमा होमवर्क' विवाद?: वीएचपी ने लगाया धर्मांतरण का आरोप, स्कूल और शिक्षिका पर सख्त कार्रवाई की मांग",
-    "points": [
-      {
-        "ts": "2026-07-16T12:05:44.923880+00:00",
-        "opportunity": 0.1157,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T14:35:30.126121+00:00",
-        "opportunity": 0.1034,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T16:37:18.904111+00:00",
-        "opportunity": 0.0998,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T18:15:59.075296+00:00",
-        "opportunity": 0.0986,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.0959,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.0931,
-        "engagement": 0.0,
-        "velocity": 0.0867,
         "signals": 1
       }
     ]
@@ -7656,39 +7576,6 @@
       }
     ]
   },
-  "cfd54db5b23f2c7f": {
-    "label": "à¤®à¥à¤¤à¥à¤¯à¥à¤à¤à¤¯ à¤¤à¤¿à¤µà¤¾à¤°à¥",
-    "points": [
-      {
-        "ts": "2026-07-16T16:37:18.904111+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T18:15:59.075296+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "19f9f41cfbcf1d74": {
     "label": "#BharatTex2026",
     "points": [
@@ -7736,39 +7623,6 @@
       },
       {
         "ts": "2026-07-17T09:29:10.621054+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "aa9e244f8cd490e2": {
-    "label": "#LetShivangiKnowTheTruth",
-    "points": [
-      {
-        "ts": "2026-07-16T16:37:18.904111+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T18:15:59.075296+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -9208,105 +9062,6 @@
       }
     ]
   },
-  "2b1399b497cc0125": {
-    "label": "'कई लोग गए, कई आए...', ISRO में हुए इस्तीफों पर बोले केंद्रीय मंत्री जितेंद्र सिंह",
-    "points": [
-      {
-        "ts": "2026-07-16T16:37:18.904111+00:00",
-        "opportunity": 0.4337,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T18:15:59.075296+00:00",
-        "opportunity": 0.428,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.416,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.4036,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "ad9ce4efbf1edeb3": {
-    "label": "भगवंत मान को बिजली टैरिफ प्रोटेस्ट मामले में मिल सकती है राहत! सुप्रीम कोर्ट का हस्तक्षेप से इनकार",
-    "points": [
-      {
-        "ts": "2026-07-16T16:37:18.904111+00:00",
-        "opportunity": 0.3322,
-        "engagement": 0.0,
-        "velocity": 0.6401,
-        "signals": 3
-      },
-      {
-        "ts": "2026-07-16T18:15:59.075296+00:00",
-        "opportunity": 0.4319,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.4201,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.2773,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      }
-    ]
-  },
-  "46dd8be7f1c955c4": {
-    "label": "आजम खान की यूनिवर्सिटी का मामला, अवैध भवनों पर ध्वस्तीकरण की तलवार; RDA ने इलाहाबाद HC में दाखिल की कैविएट",
-    "points": [
-      {
-        "ts": "2026-07-16T16:37:18.904111+00:00",
-        "opportunity": 0.2739,
-        "engagement": 0.0,
-        "velocity": 0.4068,
-        "signals": 3
-      },
-      {
-        "ts": "2026-07-16T18:15:59.075296+00:00",
-        "opportunity": 0.3194,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.305,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.2893,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      }
-    ]
-  },
   "7452c44a932f733d": {
     "label": "Bengal Politics: ममता को एक दिन में तीन झटके, कोयल और मनीष के बाद तापस चट्टोपाध्याय ने दिए TMC छोड़ने के संकेत",
     "points": [
@@ -9673,6 +9428,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -9772,32 +9534,6 @@
       }
     ]
   },
-  "3ad4b21a79ecf92a": {
-    "label": "Express Sports",
-    "points": [
-      {
-        "ts": "2026-07-16T18:15:59.075296+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "4526367997387b37": {
     "label": "Selectors",
     "points": [
@@ -9832,7 +9568,7 @@
     ]
   },
   "57cee459c550f8ed": {
-    "label": "kohli",
+    "label": "Kohli",
     "points": [
       {
         "ts": "2026-07-16T18:15:59.075296+00:00",
@@ -9875,6 +9611,13 @@
         "engagement": 0.1919,
         "velocity": 0.8734,
         "signals": 3
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -11309,58 +11052,6 @@
       }
     ]
   },
-  "28579c01aed9c669": {
-    "label": "Shweta Tiwari On Sonam wangchuk: सोनम वांगचुक के बहाने चमकाया जा रहा एजेंडा? श्वेता तिवारी का कॉकरोच जनता पार्टी पर हमला",
-    "points": [
-      {
-        "ts": "2026-07-16T18:15:59.075296+00:00",
-        "opportunity": 0.4725,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.4536,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.3123,
-        "engagement": 0.0,
-        "velocity": 0.6442,
-        "signals": 5
-      }
-    ]
-  },
-  "b31201e3a4fe4997": {
-    "label": "वैष्णो देवी यात्रा पर जा रहे हैं? पहले पढ़ लें यह अपडेट, 22 जुलाई तक बंद रहेगी रोपवे सेवा",
-    "points": [
-      {
-        "ts": "2026-07-16T18:15:59.075296+00:00",
-        "opportunity": 0.4715,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.4528,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.4344,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "1a345c3aacbb2206": {
     "label": "Income Tax पोर्टल पर अब दिखेगी आपकी विदेशी संपत्ति और इनकम, CBDT ने शुरू की नई सुविधा",
     "points": [
@@ -11404,32 +11095,6 @@
         "opportunity": 0.1176,
         "engagement": 0.0,
         "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "6fc0fe282a2a90be": {
-    "label": "OMG! ट्रैक पर छिलका फेंक रहे थे अंकल, युवक ने रोका तो बदली सोच, वायरल वीडियो ने दिया बड़ा मैसेज",
-    "points": [
-      {
-        "ts": "2026-07-16T18:15:59.075296+00:00",
-        "opportunity": 0.47,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.4515,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.4333,
-        "engagement": 0.0,
-        "velocity": 0.7867,
         "signals": 1
       }
     ]
@@ -12052,25 +11717,6 @@
       }
     ]
   },
-  "7cca93ed59ce4bd8": {
-    "label": "wi vs nz",
-    "points": [
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.6899,
-        "engagement": 1.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.6856,
-        "engagement": 0.965,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
   "99c6856eda3d9273": {
     "label": "लियोनेल स्कालोनी",
     "points": [
@@ -12123,25 +11769,6 @@
       }
     ]
   },
-  "c313789449aa8f73": {
-    "label": "katrina kaif",
-    "points": [
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.6019,
-        "engagement": 0.5355,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.5815,
-        "engagement": 0.5355,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "abc2b1d535e716ba": {
     "label": "गस एटकिंसन",
     "points": [
@@ -12165,25 +11792,6 @@
         "engagement": 0.1755,
         "velocity": 0.8734,
         "signals": 3
-      }
-    ]
-  },
-  "fd1b93b38a7cd459": {
-    "label": "The National Testing Agency",
-    "points": [
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
       }
     ]
   },
@@ -12461,25 +12069,6 @@
       {
         "ts": "2026-07-17T01:08:26.145774+00:00",
         "opportunity": 0.4221,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "e9928e11a584c564": {
-    "label": "आज की ताजा खबर LIVE: पीएम मोदी आज देश की पहली हाइड्रोजन ट्रेन को हरी झंडी दिखाएंगे",
-    "points": [
-      {
-        "ts": "2026-07-16T19:43:45.181374+00:00",
-        "opportunity": 0.4764,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-07-16T21:12:36.017217+00:00",
-        "opportunity": 0.4541,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -41303,6 +40892,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.1121,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -55217,6 +54813,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3757,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -61025,12 +60628,19 @@
     ]
   },
   "287a995dde1c0a34": {
-    "label": "ronaldinho",
+    "label": "Ronaldinho",
     "points": [
       {
         "ts": "2026-07-18T23:32:01.762708+00:00",
         "opportunity": 0.6062,
         "engagement": 0.5418,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
       }
@@ -64819,6 +64429,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3761,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -67641,6 +67258,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0868,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -67721,6 +67345,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0867,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -67786,6 +67417,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0872,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0862,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -68393,6 +68031,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3749,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -68489,6 +68134,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3792,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3744,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -68608,6 +68260,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3729,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -68669,6 +68328,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3728,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -68727,6 +68393,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3773,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3727,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -68800,6 +68473,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.377,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3724,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -68895,6 +68575,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3723,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -68953,6 +68640,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3767,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3722,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -69065,6 +68759,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.1125,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -69123,6 +68824,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3663,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3619,
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
@@ -69186,6 +68894,13 @@
         "opportunity": 0.3757,
         "engagement": 0.0,
         "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.1123,
+        "engagement": 0.0,
+        "velocity": 0.0867,
         "signals": 1
       }
     ]
@@ -69738,6 +69453,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4004,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -69839,6 +69561,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.112,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -69899,6 +69628,13 @@
         "opportunity": 0.3752,
         "engagement": 0.0,
         "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.1119,
+        "engagement": 0.0,
+        "velocity": 0.0867,
         "signals": 1
       }
     ]
@@ -70266,6 +70002,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0882,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -70324,6 +70067,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0893,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.088,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -70388,6 +70138,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0879,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -70446,6 +70203,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0891,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0879,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -70510,6 +70274,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0874,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -70571,6 +70342,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0872,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -70622,6 +70400,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0883,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0871,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -70993,6 +70778,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3805,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -71163,6 +70955,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3792,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -71217,6 +71016,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3791,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -71268,6 +71074,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4192,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4099,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -71349,6 +71162,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.378,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -71393,6 +71213,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3832,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3779,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -71447,6 +71274,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.383,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3778,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -71549,6 +71383,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3773,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -71639,6 +71480,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3761,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -71690,6 +71538,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3676,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.363,
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
@@ -71746,6 +71601,13 @@
         "opportunity": 0.3759,
         "engagement": 0.0,
         "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.1125,
+        "engagement": 0.0,
+        "velocity": 0.0867,
         "signals": 1
       }
     ]
@@ -71870,6 +71732,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0897,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -71921,6 +71790,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0901,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0888,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -71994,6 +71870,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0899,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0886,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -72766,6 +72649,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3898,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -72815,6 +72705,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.2618,
+        "engagement": 0.0,
+        "velocity": 0.4874,
+        "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.2557,
         "engagement": 0.0,
         "velocity": 0.4874,
         "signals": 2
@@ -72874,6 +72771,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3949,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3883,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -72969,6 +72873,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3875,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -73006,6 +72917,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3938,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3874,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -73049,6 +72967,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.387,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -73079,6 +73004,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.393,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3866,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -73165,6 +73097,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3862,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -73209,6 +73148,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3925,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3862,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -73278,6 +73224,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.386,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -73322,6 +73275,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.2585,
+        "engagement": 0.0,
+        "velocity": 0.4874,
+        "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.2528,
         "engagement": 0.0,
         "velocity": 0.4874,
         "signals": 2
@@ -73384,6 +73344,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3851,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -73433,6 +73400,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3911,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.385,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -73507,6 +73481,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3847,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -73578,6 +73559,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3841,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -73615,6 +73603,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3894,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3835,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -73665,6 +73660,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3834,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -73712,6 +73714,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3832,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -73756,6 +73765,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.389,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3831,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -73818,6 +73834,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3817,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -73862,6 +73885,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3869,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3812,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -73912,6 +73942,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3809,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -73949,6 +73986,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3908,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3847,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -73992,6 +74036,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.109,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -74029,6 +74080,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.1116,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.1078,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -74091,6 +74149,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.1055,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -74150,6 +74215,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.1016,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -74206,6 +74278,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.1006,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0981,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -74287,6 +74366,13 @@
         "engagement": 0.0,
         "velocity": 0.1734,
         "signals": 3
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.102,
+        "engagement": 0.0,
+        "velocity": 0.1734,
+        "signals": 3
       }
     ]
   },
@@ -74331,6 +74417,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0936,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0918,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -74381,6 +74474,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0904,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -74418,6 +74518,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0912,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0898,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -74465,6 +74572,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0893,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0881,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -74987,6 +75101,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3951,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -75058,6 +75179,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3932,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -75110,6 +75238,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4003,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -75147,6 +75282,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3994,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3923,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -75190,6 +75332,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3914,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -75227,6 +75376,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.396,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3893,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -75270,6 +75426,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3882,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -75307,6 +75470,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3944,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3879,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -75350,6 +75520,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3878,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -75389,6 +75566,13 @@
         "opportunity": 0.3626,
         "engagement": 0.0,
         "velocity": 0.8734,
+        "signals": 3
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.2842,
+        "engagement": 0.0,
+        "velocity": 0.6401,
         "signals": 3
       }
     ]
@@ -75472,6 +75656,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.2677,
+        "engagement": 0.0,
+        "velocity": 0.4874,
+        "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.2609,
         "engagement": 0.0,
         "velocity": 0.4874,
         "signals": 2
@@ -75562,6 +75753,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0871,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0861,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -75763,6 +75961,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -75793,6 +75998,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4235,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4137,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -76009,6 +76221,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4069,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -76130,6 +76349,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4057,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -76160,6 +76386,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4145,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4057,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -76196,6 +76429,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4036,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -76226,6 +76466,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4117,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4032,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -76262,6 +76509,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4026,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -76295,6 +76549,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4026,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -76325,6 +76586,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4103,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4019,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -76373,6 +76641,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4014,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -76406,6 +76681,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4004,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -76436,6 +76718,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4077,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3996,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -76498,6 +76787,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3986,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -76531,6 +76827,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3971,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -76561,6 +76864,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4047,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.397,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -76628,6 +76938,13 @@
         "engagement": 0.0,
         "velocity": 0.1734,
         "signals": 3
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.1059,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -76658,6 +76975,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.1045,
+        "engagement": 0.0,
+        "velocity": 0.1734,
+        "signals": 3
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.1031,
         "engagement": 0.0,
         "velocity": 0.1734,
         "signals": 3
@@ -76703,6 +77027,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0994,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.097,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -76758,6 +77089,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0968,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -76788,6 +77126,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0974,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0952,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -76824,6 +77169,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0947,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -76854,6 +77206,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0913,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0899,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -77048,6 +77407,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77070,6 +77436,13 @@
       },
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -77126,6 +77499,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77149,6 +77529,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4344,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4234,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -77178,6 +77565,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4232,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77201,6 +77595,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.434,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.423,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -77249,6 +77650,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.42,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77272,6 +77680,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4306,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.42,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -77301,6 +77716,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4192,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77324,6 +77746,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4296,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.419,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -77353,6 +77782,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4182,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77376,6 +77812,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4283,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4179,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -77405,6 +77848,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4168,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77428,6 +77878,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.427,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4168,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -77481,6 +77938,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4155,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77504,6 +77968,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4238,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.414,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -77533,6 +78004,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4138,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77559,6 +78037,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4124,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77582,6 +78067,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4216,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.412,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -77637,6 +78129,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4166,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77660,6 +78159,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.3872,
+        "engagement": 0.0,
+        "velocity": 0.8734,
+        "signals": 3
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3783,
         "engagement": 0.0,
         "velocity": 0.8734,
         "signals": 3
@@ -77689,6 +78195,13 @@
         "engagement": 0.0,
         "velocity": 0.9014,
         "signals": 4
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.3249,
+        "engagement": 0.0,
+        "velocity": 0.9014,
+        "signals": 4
       }
     ]
   },
@@ -77712,6 +78225,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.2945,
+        "engagement": 0.0,
+        "velocity": 0.4874,
+        "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.2847,
         "engagement": 0.0,
         "velocity": 0.4874,
         "signals": 2
@@ -77741,6 +78261,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0981,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -77764,6 +78291,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.0999,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.0975,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -77977,6 +78511,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -77992,6 +78533,13 @@
       },
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -78015,6 +78563,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78034,6 +78589,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4686,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78049,6 +78611,13 @@
       },
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
+        "opportunity": 0.4761,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
         "opportunity": 0.4761,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -78072,6 +78641,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4365,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78088,6 +78664,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4484,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4358,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -78110,6 +78693,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4342,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78126,6 +78716,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4462,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4338,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -78148,6 +78745,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4318,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78164,6 +78768,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4438,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4316,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -78186,6 +78797,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4306,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78202,6 +78820,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4419,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.43,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -78224,6 +78849,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4277,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78240,6 +78872,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4388,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4272,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -78262,6 +78901,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4269,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78281,6 +78927,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4255,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78297,6 +78950,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4359,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4247,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -78350,6 +79010,13 @@
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4157,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
       }
     ]
   },
@@ -78366,6 +79033,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4261,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4148,
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
@@ -78400,6 +79074,13 @@
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4101,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
       }
     ]
   },
@@ -78419,6 +79100,13 @@
         "engagement": 0.0,
         "velocity": 0.4874,
         "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.2958,
+        "engagement": 0.0,
+        "velocity": 0.4874,
+        "signals": 2
       }
     ]
   },
@@ -78435,6 +79123,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.1054,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.1023,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -78546,6 +79241,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78554,6 +79256,13 @@
     "points": [
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -78570,6 +79279,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78578,6 +79294,13 @@
     "points": [
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -78594,6 +79317,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78602,6 +79332,13 @@
     "points": [
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -78618,6 +79355,13 @@
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4364,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
       }
     ]
   },
@@ -78627,6 +79371,13 @@
       {
         "ts": "2026-07-19T20:25:58.730958+00:00",
         "opportunity": 0.4345,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4223,
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
@@ -78642,6 +79393,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4219,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -78653,6 +79411,282 @@
         "opportunity": 0.4298,
         "engagement": 0.0,
         "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "211f8f70a0ffd1e4": {
+    "label": "lautaro martínez",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.6994,
+        "engagement": 0.8488,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "5618769e5f8d7f56": {
+    "label": "fifa world cup 2022",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.6729,
+        "engagement": 0.8178,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "cd6e9d0119e940ef": {
+    "label": "paul wesley",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.6701,
+        "engagement": 0.8178,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "c6ce8bcbca739272": {
+    "label": "pique",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.6547,
+        "engagement": 0.3488,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "061ca4a73863467d": {
+    "label": "manorama online",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.6307,
+        "engagement": 0.6071,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "91e13863589906fa": {
+    "label": "sicario",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.6307,
+        "engagement": 0.6071,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "b873d0ccb624078e": {
+    "label": "BTS THE LEGENDS",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.535,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "326441a8a0d8e6d7": {
+    "label": "Licha",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "74630b2060567856": {
+    "label": "Dynamite",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "0354e37c4126002f": {
+    "label": "Otamendi",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "1e5d4960ec31b73b": {
+    "label": "Rodri",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "303fed39ff15f5ae": {
+    "label": "Lisandro Martinez",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "36291b9d1a8f992f": {
+    "label": "Ted Lasso",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "64e424263f75a681": {
+    "label": "Madonna",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "1e5b9cbb6b60f8a6": {
+    "label": "Justin Bieber",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "49a93efdfc9b484d": {
+    "label": "#WorldCupFinal",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "85da9905f9a5c06e": {
+    "label": "Shakira",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "2427b792d45315a7": {
+    "label": "MP: नरसिंहपुर में NH-45 पर भारी वाहन ने 6 दोस्तों को कुचला, 5 की मौत, एक घायल",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4651,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "05c1755118555726": {
+    "label": "20 जुलाई 2026 का राशिफल (Horoscope 20 July 2026): आज हस्त नक्षत्र का शुभ प्रभाव, इन 3 राशियों को मिलेगा बड़ा फायदा",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4613,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "85d8e526842e5fe7": {
+    "label": "IND vs ENG: शतक रोहित शर्मा और बेन डकेट ने लगाए, फिर प्लेयर ऑफ द मैच इस खिलाड़ी को क्यों मिला?",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.421,
+        "engagement": 0.0,
+        "velocity": 0.8734,
+        "signals": 3
+      }
+    ]
+  },
+  "93cd2318072375e1": {
+    "label": "ESP vs ARG FIFA WC Final Live Update: पूरे 90 मिनट में नहीं लगा गोल, एक्सट्रा टाइम में पहुंचा मैच",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4181,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "5e6e74b613d17bd6": {
+    "label": "आज की ताजा खबर LIVE: ईरानी विदेश मंत्री अब्बास अराघची बोले- हमें कोई धमका नहीं सकता",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.4176,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "0c1f6a2f09f20a93": {
+    "label": "Parliament: मानसून सत्र में सरकार पेश करेगी पांच नए विधेयक; 'वंदे मातरम' के अपमान पर क्या है केंद्र की तैयारी?",
+    "points": [
+      {
+        "ts": "2026-07-19T21:28:56.058236+00:00",
+        "opportunity": 0.102,
+        "engagement": 0.0,
+        "velocity": 0.1374,
         "signals": 2
       }
     ]
