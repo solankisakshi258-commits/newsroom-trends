@@ -190,6 +190,13 @@
         "engagement": 0.0,
         "velocity": 0.6401,
         "signals": 3
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4301,
+        "engagement": 0.0,
+        "velocity": 0.6401,
+        "signals": 3
       }
     ]
   },
@@ -3535,39 +3542,6 @@
       }
     ]
   },
-  "9a5f1aff51c02e8d": {
-    "label": "अभिजीत दीपके ने PM मोदी के सामने रखी बड़ी डिमांड, बोले- 'Gen Z के लिए आप...'",
-    "points": [
-      {
-        "ts": "2026-08-07T09:12:48.489921+00:00",
-        "opportunity": 0.391,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.3733,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.3686,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.1221,
-        "engagement": 0.0,
-        "velocity": 0.1734,
-        "signals": 3
-      }
-    ]
-  },
   "ec2b911289fe3dc2": {
     "label": "'युवाओं की आवाज क्यों दबाई जा रही है?': सुरजेवाला ने केंद्र सरकार से पूछे सवाल, कहा- हर छात्र रखता है मायने",
     "points": [
@@ -3670,53 +3644,6 @@
       {
         "ts": "2026-08-07T16:07:00.437410+00:00",
         "opportunity": 0.0934,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "5c472e3511ed9275": {
-    "label": "RSS Vs CJP: मोहन भागवत के बयान के बाद अभिजीत दीपके का क्रिप्टिक पोस्ट, क्यों लिखा- टू व्हूम इट मे कंसर्न",
-    "points": [
-      {
-        "ts": "2026-08-07T09:12:48.489921+00:00",
-        "opportunity": 0.111,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.1037,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.1008,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.1009,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.0989,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.0965,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -4180,366 +4107,6 @@
       }
     ]
   },
-  "e9a35886561a1677": {
-    "label": "हिंदू से इस्लाम अपनाने वालों को OBC आरक्षण देने का मामला, सुप्रीम कोर्ट ने सुरक्षित रखा फैसला",
-    "points": [
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.4483,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4358,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.436,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4273,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4165,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "d121bfaf0578bde2": {
-    "label": "आंखों से धुंधला दिखने लगा है? शरीर में इस विटामिन की कमी से आंखों की रोशनी होती है कम",
-    "points": [
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.447,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4346,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.435,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4264,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4158,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "b63f907e7040285d": {
-    "label": "'कश्मीर और आर्टिकल 370 पर दखल न दे पाकिस्तान', शहबाज शरीफ को CM उमर अब्दुल्लाह ने दिया करारा जवाब",
-    "points": [
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.4469,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4346,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.4349,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4263,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4157,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "fd556eec3c68bd6a": {
-    "label": "बुढ़ापे की आंखों को छिपाने के लिए अमिताभ बच्चन अपने चश्मे में करते हैं ये काम, बिग बी ने खोला अपने पीले चश्मे का राज",
-    "points": [
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.4465,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4342,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.4346,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.426,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4154,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "3bc10d030a20a94d": {
-    "label": "मां बनना आसान नहीं, Breastfeeding के दौरान इन बातों का रखें ध्यान, Divyanka Tripathi ने शेयर किया अपना अनुभव",
-    "points": [
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.4462,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4339,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.4343,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4258,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4152,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "19d5659977835a9c": {
-    "label": "Easy Breakfast Ideas: सिर्फ 5 मिनट में होगी तैयार, एक बार खाया तो समोसे भी भूल जाएंगे",
-    "points": [
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.4461,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4338,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.4342,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4257,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4152,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "e42a60c55bd1ebd4": {
-    "label": "रमण महर्षि को ढोंगी साबित करने आया था अंग्रेज, आश्रम में घटी ऐसी घटना, झुक गया खुद-ब-खुद सिर",
-    "points": [
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.446,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4337,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.4342,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4257,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4151,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "94e43e56b2035830": {
-    "label": "Amrit Udyan Opening: वीकेंड और बार‍िश, मजा हो जाएगा डबल जब अमृत उद्यान में फूलों के बीच करेंगे आप सैर",
-    "points": [
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.4449,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4327,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.4332,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4249,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4144,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "b6540de754c9b9aa": {
-    "label": "जिस मशहूर झील से निकलता है नमक, अब उसमें आर्टिफिशियल टापू पर बनेगा टूरिस्ट स्पॉट",
-    "points": [
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.4434,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4314,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.432,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4239,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4135,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "28ccb38a9f3a1737": {
     "label": "'धुरंधर' के आगे 'पुष्पा-बाहुबली-दंगल' भी हुई फेल, बनी नेटफ्लिक्स पर सबसे ज्यादा देखी जाने वाली फिल्म",
     "points": [
@@ -4785,72 +4352,6 @@
       {
         "ts": "2026-08-08T02:15:12.343807+00:00",
         "opportunity": 0.4675,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "70b90771b262d0cf": {
-    "label": "संजीव कुमार का वो गाना जो गुसलखाने में हुआ शूट, महेंद्र कपूर-आशा भोसले की आवाज, 48 साल बाद भी हरदिलअजीज",
-    "points": [
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.4128,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4338,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4258,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4152,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "4154726effa18021": {
-    "label": "45 साल पुराना अमिताभ- नीतू का गाना, रवींद्रनाथ टैगोर के गीत से था इंस्पायर्ड, किशोर कुमार की आवाज ने बना दिया अमर, आज भी है प्रेमियों की लिस्ट में शुमार",
-    "points": [
-      {
-        "ts": "2026-08-07T10:29:05.589326+00:00",
-        "opportunity": 0.411,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4003,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4711,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4548,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -6977,39 +6478,6 @@
       }
     ]
   },
-  "efc684f4649a4194": {
-    "label": "डाबर को दिल्ली हाईकोर्ट से बड़ी राहत! '100% प्योर' दावों वाले प्रोडक्ट्स पर FSSAI बैन के आदेश पर लगी रोक",
-    "points": [
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.4332,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.4337,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4253,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4148,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "97d4868d3d8e8764": {
     "label": "नमो भारत मानेसर-रोहतक, बहादुरगढ़ से बावल-बहरोड़ तक 4 रूट पर दौड़ेगी, दिल्ली से हरियाणा-राजस्थान तक रैपिड रेल कनेक्टिविटी",
     "points": [
@@ -7494,39 +6962,6 @@
       {
         "ts": "2026-08-07T20:52:56.889185+00:00",
         "opportunity": 0.089,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "88e9e789e248272f": {
-    "label": "Supreme Court: नारायण साईं को सुप्रीम कोर्ट से झटका, उम्रकैद पर रोक लगाने से सर्वोच्च अदालत का इनकार",
-    "points": [
-      {
-        "ts": "2026-08-07T11:26:15.226627+00:00",
-        "opportunity": 0.0996,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T12:25:05.312215+00:00",
-        "opportunity": 0.0998,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.098,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.0957,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -8967,25 +8402,6 @@
       }
     ]
   },
-  "cb2c850cc2f3cc79": {
-    "label": "manga million",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.6813,
-        "engagement": 0.8531,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.672,
-        "engagement": 0.8998,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "19d471afeb06a6e6": {
     "label": "à¤ªà¤¤à¥à¤¨à¥ à¤¸à¤à¤à¥à¤¤à¤¾",
     "points": [
@@ -9127,25 +8543,6 @@
       },
       {
         "ts": "2026-08-08T03:54:00.136036+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "f181208828e31af7": {
-    "label": "#VishwanathAndSons",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -9448,25 +8845,6 @@
       }
     ]
   },
-  "6e676767765b5229": {
-    "label": "Vastu and Planetary Defects: क्या आपके घर में बार-बार टूटती हैं चीजें? शनि और राहु का हो सकता है प्रकोप",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4774,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4602,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "657902ac210ad878": {
     "label": "51 साल पुराना गाना, जलते पत्थर- तेज धूप  और कांच पर हेमा मालिनी का डांस, लता की आवाज, आरडी बर्मन के संगीत ने बनाया कालजयी",
     "points": [
@@ -9549,63 +8927,6 @@
       }
     ]
   },
-  "410552a1c77e6941": {
-    "label": "बैक टू बैक फ्लॉप! अब 1800 करोड़ की मूवी वाले डायरेक्टर संग Ram Charan का टाई अप, फिल्म पर आया बड़ा अपडेट",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4751,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4582,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "bdd909323e4a74b9": {
-    "label": "भारत में Google का सबसे बड़ा डेटा सेंटर, निवेश पर क्यों मचा विवाद?",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4746,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4578,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "baf2ad7072c5d434": {
-    "label": "पहले दादा-दादी का कत्ल, फिर स्कूल में 5 मर्डर और सुसाइड…थाईलैंड में 14 साल के लड़के का खूनी खेल",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4738,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4571,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "bc4efbe9463b957e": {
     "label": "चमोली की वादियो में बसा गोपीनाथ मंदिर, जहां भोलेनाथ ने धारण किया था गोपी का रूप, CM धामी ने बताया पौराणिक महत्व",
     "points": [
@@ -9684,63 +9005,6 @@
         "opportunity": 0.1121,
         "engagement": 0.0,
         "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "ce895f3eb434919d": {
-    "label": "कुएं में उठ रही समंदर जैसी लहरें, गुजरात में जिसने इसे देखा वही हैरान, VIDEO",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4733,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4567,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "a7a15feb7896fbeb": {
-    "label": "OMG! 3 लाख के बोनस और कंपनी की शर्तों में फंसा मामला, रिटेंशन बोनस की क्लॉबैक पॉलिसी बनी सिरदर्द",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4729,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4563,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "434d6b5d7300d77c": {
-    "label": "PCB ने अपने ही खिलाड़ी को क्यों 2 साल के लिए बैन कर दिया? चौंकाने वाला है मामला",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4728,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4562,
-        "engagement": 0.0,
-        "velocity": 0.7867,
         "signals": 1
       }
     ]
@@ -10066,44 +9330,6 @@
       }
     ]
   },
-  "3a27feb446aaa732": {
-    "label": "छत्तीसगढ़: ₹500 करोड़ के AI मिशन से 6 लाख छात्रों और 1.5 लाख कर्मचारियों को मिलेगी ट्रेनिंग",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4696,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4534,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "1414e64a5504cc1a": {
-    "label": "तुर्की तक अटैक करने की क्षमता, परमाणु वॉरहेड ले जाने वाली भारत की अग्नि 4 मिसाइल कितनी खतरनाक?",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4695,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4533,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "a81d4f09f9be5f1b": {
     "label": "बनारस घराने की वो गायिका, जिनके राजा- महाराजा भी थे मुरीद, गाए प्रेम, विरह, भक्ति और जीवन से जुड़े गाने, पद्मश्री से सम्मानित",
     "points": [
@@ -10215,44 +9441,6 @@
         "opportunity": 0.111,
         "engagement": 0.0,
         "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "ae7edc9636fd524d": {
-    "label": "IMDb रेटिंग 8.3, एपिसोड 7, हर एपिसोड में छिपा है ट्विस्ट, एक बार शुरू की ये वेब सीरीज तो छोड़ना नहीं करेगा मन",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4679,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4519,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "ed096aefbec0cac2": {
-    "label": "मिथुन चक्रवर्ती की सेहत पर अपडेट, सर्जरी के बाद शुभेंदु अधिकारी ने की मुलाकात",
-    "points": [
-      {
-        "ts": "2026-08-07T13:54:14.099286+00:00",
-        "opportunity": 0.4671,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4625,
-        "engagement": 0.0,
-        "velocity": 0.7867,
         "signals": 1
       }
     ]
@@ -11779,18 +10967,6 @@
       }
     ]
   },
-  "e1c3ec79bd732209": {
-    "label": "iphone 17 pro price drop",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.6796,
-        "engagement": 0.8998,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "c9c85aa360754ff3": {
     "label": "vishwanath and sons",
     "points": [
@@ -11824,54 +11000,6 @@
         "ts": "2026-08-07T16:07:00.437410+00:00",
         "opportunity": 0.6538,
         "engagement": 0.8111,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "18626db64166c43c": {
-    "label": "uefa champions league",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.6506,
-        "engagement": 0.7676,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "81445351bea116f2": {
-    "label": "अवकाश",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.6322,
-        "engagement": 0.5,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "ec4dac20f90d62b2": {
-    "label": "Superstar Display Picture",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "1a69cbb7d67405ba": {
-    "label": "Option B. 10,00,000",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
       }
@@ -12132,18 +11260,6 @@
       }
     ]
   },
-  "656997e6913e9180": {
-    "label": "#MaheshBabuSDP",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "458c6fb3d176f024": {
     "label": "#TAEHYUNGxCHAMPION",
     "points": [
@@ -12332,18 +11448,6 @@
       {
         "ts": "2026-08-07T16:07:00.437410+00:00",
         "opportunity": 0.4524,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "529bcf8b5c8edf8f": {
-    "label": "Ramayana: भारत में 6 नवंबर को रिलीज नहीं होगी रणबीर कपूर की ‘रामायण’, प्रोड्यूसर ने बड़ा अपडेट दे दिया",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4742,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -12776,54 +11880,6 @@
       }
     ]
   },
-  "c729f2292ea26d51": {
-    "label": "Titan Q1 Profit: नेट प्रॉफिट 65% बढ़कर 1699 करोड़ रुपये, रेवेन्यू में 24 फीसदी इजाफा",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4642,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "2993a48a1f40be6b": {
-    "label": "लोन चुकाने में देरी पर भी नहीं मिलेगी धमकी! ग्राहकों की सुरक्षा के लिए RBI ने जारी किए सख्त रिकवरी रूल्स",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4641,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "abf8cedfa98fd2d7": {
-    "label": "30 साल पुराना अक्षय-उर्मिला का हिट गाना है ब्रिटिश सॉन्ग की कॉपी,  विनोद राठौड़ ने दी थी आवाज, आनंद बख्शी ने लिखे थे बोल, आज भी है पार्टी की शान",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.459,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "ad83165cfa29ac07": {
-    "label": "Harshvardhan-Sanjeeda Dating Rumors: हर्षवर्धन राणे और संजीदा शेख कर रहे डेट? दोनों की नई तस्वीरों ने मचाई सोशल मीडिया पर हलचल",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.454,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
   "553603ecd75d9f69": {
     "label": "‘सपा ने विधानसभा नहीं चलने दी, उनकी विकास में कोई रुचि नहीं’, विपक्ष पर बरसे सीएम योगी",
     "points": [
@@ -12847,18 +11903,6 @@
         "engagement": 0.0,
         "velocity": 0.8734,
         "signals": 3
-      }
-    ]
-  },
-  "f01be487aaa3671f": {
-    "label": "जंतर-मंतर पर प्रदर्शन वाली जगह को बंद क्यों नहीं करते? दिल्ली हाई कोर्ट का केंद्र से सवाल",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.4425,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
       }
     ]
   },
@@ -12950,42 +11994,6 @@
       {
         "ts": "2026-08-07T23:43:03.437631+00:00",
         "opportunity": 0.1102,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "009090f448d5409a": {
-    "label": "'दाल में काला नहीं, पूरी दाल ही काली है', E20 पेट्रोल को लेकर राहुल गांधी का बयान",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.3598,
-        "engagement": 0.0,
-        "velocity": 0.6401,
-        "signals": 3
-      }
-    ]
-  },
-  "7d08c802391f524a": {
-    "label": "LIVE: भारी बारिश के बीच थम गया दिल्‍ली-NCR! जगह-जगह जाम, भरा पानी; रेड अलर्ट जारी",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.3514,
-        "engagement": 0.0,
-        "velocity": 0.7842,
-        "signals": 5
-      }
-    ]
-  },
-  "1f1db6d53b88880f": {
-    "label": "'टीम बनाने में पारदर्शिता नहीं': कोर कमेटी को लेकर CJP में बवाल, दीपके के घर के बाहर क्यों धरने पर बैठें युवा?",
-    "points": [
-      {
-        "ts": "2026-08-07T15:04:58.946506+00:00",
-        "opportunity": 0.1121,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -50893,6 +49901,13 @@
         "engagement": 0.8178,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.394,
+        "engagement": 0.2844,
+        "velocity": 0.4068,
+        "signals": 3
       }
     ]
   },
@@ -67060,6 +66075,13 @@
       {
         "ts": "2026-08-09T15:03:30.872135+00:00",
         "opportunity": 0.4053,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4426,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -88809,6 +87831,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3746,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -88953,6 +87982,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3734,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -89002,6 +88038,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.3782,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.373,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -89080,6 +88123,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.3779,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3728,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -89424,6 +88474,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1115,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -89540,6 +88597,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.111,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -89606,6 +88670,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1109,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -89660,6 +88731,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1104,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -89713,6 +88791,13 @@
         "opportunity": 0.374,
         "engagement": 0.0,
         "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1104,
+        "engagement": 0.0,
+        "velocity": 0.0867,
         "signals": 1
       }
     ]
@@ -89843,6 +88928,13 @@
         "opportunity": 0.373,
         "engagement": 0.0,
         "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1095,
+        "engagement": 0.0,
+        "velocity": 0.0867,
         "signals": 1
       }
     ]
@@ -90050,6 +89142,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1067,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -90101,6 +89200,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.1106,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1065,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -90158,6 +89264,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1065,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -90210,6 +89323,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1101,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -90249,6 +89369,13 @@
         "opportunity": 0.3732,
         "engagement": 0.0,
         "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1097,
+        "engagement": 0.0,
+        "velocity": 0.0867,
         "signals": 1
       }
     ]
@@ -90837,6 +89964,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3831,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -90893,6 +90027,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.3889,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3824,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -92450,6 +91591,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -92486,6 +91634,13 @@
       },
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -92554,6 +91709,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -92590,6 +91752,13 @@
       },
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -92771,6 +91940,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -92807,6 +91983,13 @@
       },
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -93434,6 +92617,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4076,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -93678,6 +92868,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4246,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -93825,6 +93022,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.3957,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3883,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -94227,6 +93431,13 @@
       {
         "ts": "2026-08-10T09:43:21.981804+00:00",
         "opportunity": 0.4266,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3848,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -94653,6 +93864,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95067,6 +94285,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3806,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95136,6 +94361,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.0964,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -95169,6 +94401,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.105,
+        "engagement": 0.0,
+        "velocity": 0.1374,
+        "signals": 2
       }
     ]
   },
@@ -95199,6 +94438,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.097,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.0946,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -95447,6 +94693,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95473,6 +94726,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4242,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95496,6 +94756,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4363,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4238,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -95544,6 +94811,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4329,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95582,6 +94856,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.423,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95608,6 +94889,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4225,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95631,6 +94919,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4342,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.422,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -95672,6 +94967,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4218,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95698,6 +95000,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4213,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95721,6 +95030,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4334,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4213,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -95769,6 +95085,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4205,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95792,6 +95115,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4325,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4205,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -95878,6 +95208,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4194,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95923,6 +95260,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4191,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95949,6 +95293,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4189,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -95972,6 +95323,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4306,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4188,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -96010,6 +95368,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4301,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4183,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -96123,6 +95488,13 @@
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3994,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
       }
     ]
   },
@@ -96146,6 +95518,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.427,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4157,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -96199,6 +95578,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4143,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -96237,6 +95623,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4137,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -96263,6 +95656,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4133,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -96286,6 +95686,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4243,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4133,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -96375,6 +95782,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4114,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -96451,6 +95865,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.41,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -96489,6 +95910,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4091,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -96512,6 +95940,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4174,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4072,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -96541,6 +95976,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.407,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -96564,6 +96006,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4171,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.407,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -97312,6 +96761,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.2843,
+        "engagement": 0.0,
+        "velocity": 0.4874,
+        "signals": 2
       }
     ]
   },
@@ -97566,6 +97022,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.2256,
+        "engagement": 0.0,
+        "velocity": 0.4068,
+        "signals": 3
       }
     ]
   },
@@ -97582,6 +97045,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.2815,
+        "engagement": 0.0,
+        "velocity": 0.4874,
+        "signals": 2
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.2723,
         "engagement": 0.0,
         "velocity": 0.4874,
         "signals": 2
@@ -97637,6 +97107,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.0983,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -97679,6 +97156,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.101,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.0981,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -97727,6 +97211,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.0978,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -97753,6 +97244,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.097,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -97776,6 +97274,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.0996,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.0969,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -97870,6 +97375,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -97885,6 +97397,13 @@
       },
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -97908,6 +97427,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -97923,6 +97449,13 @@
       },
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -97946,6 +97479,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -97961,6 +97501,13 @@
       },
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -98008,6 +97555,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4365,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98039,6 +97593,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4349,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98055,6 +97616,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4489,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4348,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -98110,6 +97678,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4469,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.433,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -98223,6 +97798,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4289,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98239,6 +97821,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4414,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4283,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -98261,6 +97850,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.428,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98277,6 +97873,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4408,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4381,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -98359,6 +97962,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4253,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98433,6 +98043,13 @@
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4182,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
       }
     ]
   },
@@ -98500,6 +98117,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4295,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98516,6 +98140,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4241,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4118,
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
@@ -98557,6 +98188,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4105,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98576,6 +98214,13 @@
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4045,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
       }
     ]
   },
@@ -98592,6 +98237,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.3151,
+        "engagement": 0.0,
+        "velocity": 0.7264,
+        "signals": 4
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3054,
         "engagement": 0.0,
         "velocity": 0.7264,
         "signals": 4
@@ -98630,6 +98282,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.1056,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1021,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -98755,6 +98414,13 @@
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.535,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
       }
     ]
   },
@@ -98815,14 +98481,28 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
   "9bd62981adfb042f": {
-    "label": "Amit Shah Ji",
+    "label": "Amit Shah ji",
     "points": [
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -98839,6 +98519,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98847,6 +98534,13 @@
     "points": [
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -98863,6 +98557,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98871,6 +98572,13 @@
     "points": [
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -98887,6 +98595,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98896,6 +98611,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4731,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4559,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -98911,6 +98633,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4553,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98920,6 +98649,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4717,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4547,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -98935,6 +98671,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4524,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98944,6 +98687,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4671,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4506,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -98959,6 +98709,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4503,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -98968,6 +98725,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4664,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4501,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -99163,6 +98927,13 @@
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4358,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
       }
     ]
   },
@@ -99172,6 +98943,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.4474,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4322,
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
@@ -99199,6 +98977,13 @@
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4505,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -99247,6 +99032,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1067,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -99256,6 +99048,13 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.1087,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1049,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -99271,6 +99070,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1047,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -99280,6 +99086,925 @@
       {
         "ts": "2026-08-10T14:01:19.229959+00:00",
         "opportunity": 0.107,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1034,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "c1d9d4f3587e1699": {
+    "label": "भारत फोर्ज",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.6904,
+        "engagement": 1.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "a8ae334f4d9ab868": {
+    "label": "ibrahim zadran",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.6792,
+        "engagement": 0.8531,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "51004af8ce75ee13": {
+    "label": "bsnl ₹77,000 crore investment plan",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.666,
+        "engagement": 0.8531,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "8b859106a2862656": {
+    "label": "टमाटर",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.666,
+        "engagement": 0.8531,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "804fe216dd358210": {
+    "label": "आमिर खान",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.6093,
+        "engagement": 0.4265,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "f4fe2b913d697ad6": {
+    "label": "à¤à¤ à¤¬à¤à¤§à¤¨ à¤¸à¤°à¤à¤¾à¤°",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "f46d8445cdf751bd": {
+    "label": "The Home Minister",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "e1982b982bd9c342": {
+    "label": "Aamir-Sunny",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "88015cdc0ead12ad": {
+    "label": "à¤µà¥à¤²à¥ à¤¬à¥à¤°à¤¿à¤",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "8d98dc8c54f1b2d4": {
+    "label": "SABSE PYAARI SHIVANGI",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "f479eb53ace8205c": {
+    "label": "à¤à¤¾à¤°à¤à¤à¤¡ à¤¸à¤°à¤à¤¾à¤°",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "4dc9df0356673d3d": {
+    "label": "भारत में नहीं होगा तेल और गैस का संकट! भंडार बढ़ाने की तैयारी, 41 देशों से ऑयल खरीदी जारी",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4706,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "f6e9377dda453565": {
+    "label": "आर्मी हेलीकॉप्टर से दिल्ली लाई गई किडनी, दूसरा डुअल ट्रांसप्लांट हुआ सफल",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4691,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "a808b95974c500d1": {
+    "label": "कोई पात्र महिला वंचित नहीं रहेगी… दिल्ली लक्ष्मी योजना पर रेखा गुप्ता की दो टूक",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4685,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "3c98fe580cea9151": {
+    "label": "जब उज्जैन में गूंजा ‘जय श्री महाकाल’, चांदी की पालकी में निकले बाबा; रामघाट पर हुआ पूजन",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4684,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "2c78d4029342e838": {
+    "label": "शहनाज गिल ने गलती से निगल ली नोज रिंग, फैंस हुए परेशान, बोले- ‘ध्यान रखो पहले…’",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4682,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "074abd9f47605fe6": {
+    "label": "ऑल इंडिया कोटा और स्टेट काउंसलिंग में क्या है अंतर? जानें कौन-सी सीट के लिए कहां करना होगा आवेदन",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.468,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "405f7ffe77ed3b2c": {
+    "label": "इस चौपाई के बिना अधूरी हैं राम पर बनाई फिल्में,51 साल पहले इस फिल्म में सुनाई राम कथा,'रामायण' से 'आदिपुरुष' तक में हुआ इस्तेमाल",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4672,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "8e57c0850d9faf82": {
+    "label": "UPI ने भारत में कैसे लगाई VISA और MasterCard को चपत?",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.467,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "b06531a393389dcc": {
+    "label": "पिता ने मोबाइल में गेम खेलने रोका तो बच्चे ने उठाया खौफनाक कदम, खत्म कर ली जीवन लीला",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4659,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "cd02dd9ecb97a3aa": {
+    "label": "Sawan Daily Shiva Puja: सावन में कहीं आप तो नहीं कर रहे गलतियां, इस नियम से करें भोलेनाथ की पूजा",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4657,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "85d494a5a695f871": {
+    "label": "Gemstone Tips: राहु-केतु के अशुभ प्रभाव से हैं परेशान? ये 2 रत्न दिला सकते हैं राहत, जानें पहनने का सही तरीका",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4651,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "c0206d36bef3ab39": {
+    "label": "JC Bose Grant क्या है? जानिए किसे मिलती है रिसर्च ग्रांट और कितना मिलता है फंड",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.465,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "9b4b47d9f051a5a1": {
+    "label": "PM Awas Yojana Urban 2.0: 1.25 करोड़ मकान मंजूर, किसे और कितनी मिलेगी मदद?",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.464,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "ccfe12596d26eb9b": {
+    "label": "न बेड़ियां झुका पाईं, न गोली डरा पाई, ब्रिटिश हुकूमत की नींव हिलाने वाले क्रांतिकारियों की  कहानी",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4639,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "9c4abd06ac9334d3": {
+    "label": "Sawan 2026: क्यों खास है बैजनाथ मंदिर? जानिए इसकी महिमा, CM धामी ने की श्रद्धालुओं से दर्शन की अपील",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4633,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "e11d2d13c714fba9": {
+    "label": "राजगढ़ हादसे में एक ही परिवार के 9 लोगों की मौत, सीएम ने जताया दुख, ₹4-4 लाख की आर्थिक सहायता की घोषणा",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4632,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "c07c4f26291b6a23": {
+    "label": "Delhi Metro Viral Video: भीड़ का फायदा उठाकर मेट्रो में ऐसे होती है चोरी, वीडियो देख उड़ जाएंगे होश",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4624,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "5df1e7cf6b74b3ae": {
+    "label": "महाराष्ट्र: हॉस्टल में सो रही 6 छात्राओं को जहरीले सांप ने डसा, 3 मासूमों की मौत",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4622,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "322434da7f1ad978": {
+    "label": "IND vs SL: गॉल टेस्ट में मोहम्मद सिराज को मिलेगा किसका साथ? इन 2 गेंदबाजों में है मुकाबला",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.462,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "5f521bb6ff72ae71": {
+    "label": "चीन के युवाओं का विदेश में पढ़ाई से मोहभंग? पिछले साल 94% ने घर वापसी की",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.462,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "f73a1a14157ca9ff": {
+    "label": "Gen-Z के बीच छाया रवि किशन का ये गाना, 23 साल पहले उदित नारायण ने अपनी आवाज से बनाया था सुपरहिट, बाजार में कैसेट हुए थे पॉपुलर",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4618,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "16d9a4ca4ddfc012": {
+    "label": "इंतजार खत्म! जल्द आने वाली है हीरो की पहली इलेक्ट्रिक बाइक, Ola को देगी टक्कर",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4616,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "a9c945c480c2bd38": {
+    "label": "Gen Z के सियासी मिजाज की पड़ताल: नेता की विश्वसनीयता और मुद्दों को प्राथमिकता देता युवा",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4609,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "7dcdc434c2ba4639": {
+    "label": "Etawah News: इटावा पुलिस लाइन में फिर महिला की मौत, महिला सिपाही प्रियंका ने जहर खाया; पति गिरफ्तार",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4608,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "a8b1df139384b971": {
+    "label": "Sawan Jalabhishek: सावन में जलाभिषेक के बाद जरूर चढ़ाएं ये फूल, जानिए महादेव को कौन सा पुष्प है सबसे प्रिय",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4606,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "e5c0685117894c0e": {
+    "label": "जल्द Netflix से गायब होने वाली हैं ये 5 टॉप फिल्में, अगर अभी तक नहीं देखी तो ना छोड़े मौका",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4592,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "bf2307cb3b27dec0": {
+    "label": "AI वाली नौकरियां भी नहीं हैं सेफ, रिपोर्ट ने बताया कैसे टेक इंडस्ट्री में बज रही खतरे की घंटी",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.459,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "639e1ff23e93f802": {
+    "label": "यूपी वालों के लिए गुड न्‍यूज: प्रॉपर्टी, पानी या सीवर का बकाया टैक्‍स 3 आसान किस्‍तों में चुका सकेंगे, पूरी डिटेल यहां",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4586,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "09beb8f369917800": {
+    "label": "चोरी के डर से खेत में दबाए 5 लाख, जगह भूला किसान; सालभर बाद जुताई में इस हाल में मिले नोट",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4585,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "621933c8fd81b3a8": {
+    "label": "जब अजीत डोभाल को गैंगस्टर समझ कर मुंबई पुलिस ने हिरासत में ले लिया था",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4569,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "1f5181091039055e": {
+    "label": "टॉक्सिक वर्कप्लेस में हो गए हैं परेशान? जानिए ऑफिस की नेगेटिविटी से बचकर खुद को पॉजिटिव रखने की टिप्स",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4569,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "902214d1d59b85cb": {
+    "label": "जब गोविंदा की पर्सनल बातें और अमीर हो गए थे ड्राइवर, देव आनंद ने उनको खरीदकर दिए बंगले",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4566,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "a4a7e1ac91216767": {
+    "label": "सेना के लिए रोबोट बनाने वाली जयपुर की कंपनी में बड़ी सेंध, डेटा लीक पर कर्मचारी समेत 4 पर एक्शन",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4559,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "59a185a62cb40675": {
+    "label": "JNU में फिर बवाल! उमर खालिद की किताब को लेकर आमने सामने ABVP-JNUSU",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4557,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "45627cbe3bb21696": {
+    "label": "‘ओह माय डॉग’ के ब्रूनो को लेकर अमित राय ने खोले राज, बोले- ‘99.99% लोगों को लगा था ये डॉग नहीं कर पाएगा’",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4541,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "129b5d75ebe7f83d": {
+    "label": "गोदभराई के 4 दिन बाद गर्भवती पत्नी की हत्या, फौजी पति समेत 3 गिरफ्तार; परिवार बोला- दोषियों को मिले कड़ी सजा",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4524,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "cf55c5e26120e269": {
+    "label": "पंजाब भाजपा में क्यों मची है इतनी हलचल, अकाली दल से गठजोड़ के प्लान ने और बढ़ाया सस्पेंस; समझिए कैसे",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4501,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "9a73d5a16ef59c0f": {
+    "label": "'चिट्टियां कलाइयां' से 'यिमी यिमी' तक जैकलीन के 7 ब्लॉकबस्टर जो रिलीज के साथ ही तोड़े सारे रिकॉर्ड्स",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4491,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "cfc4ddd5718da1c8": {
+    "label": "चमोली में बादल फटने से तबाही: तमक नाले पर बना पुल बहा",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4482,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "05799991d15c48d6": {
+    "label": "TRAI का बड़ा फैसला: बिजली, पानी, गैस, कूरियर के कॉल अब 1601 सीरीज वाले नंबर से आएंगे, जानें फर्जीवाड़े से कैसे मिलेगी राहत",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4479,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "6c6933aa68655887": {
+    "label": "दिल्ली से निकलेगा देश का सबसे बड़ा एक्सप्रेसवे, 1380 KM में 6 राज्यों के 20 शहर कनेक्ट, जानें गुरुग्राम, अलवर, जयपुर से कोटा-रतलाम, सूरत-मुंबई तक पूरा रूट",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4472,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "9f878ca28c6c378d": {
+    "label": "स्थापना के समय से ही राष्ट्रीय स्वयंसेवक संघ से जुड़े रहे हैं युवा, कैसे हुआ संघ का विस्तार",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4466,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "b05d9504f46d5fe3": {
+    "label": "Sawan 2026: संतान की चाहत है तो सावन में बनाएं 11 पार्थिव शिवलिंग, जानिए पूजा की पूरी विधि और खास मान्यता",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4454,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "373deb78b58e5a38": {
+    "label": "एयरपोर्ट में निकली 21 लाख सैलरी वाली सरकारी नौकरी, 389 पदों पर आवेदन शुरू, जानिए यहां फुल डिटेल",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4447,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "7cdacf55f987a87f": {
+    "label": "दिल्ली से 6 घंटे में चित्रकूट, यह लिंक रोड बदलेगा UP की तस्वीर, बुंदेलखंड और आगरा-लखनऊ एक्सप्रेसवे से जुड़ेगा",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4446,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "75a757d0fdb2b1fa": {
+    "label": "Train and Flight Advisory: इस तारीख तक ट्रेन, मेट्रो और फ्लाइट के लिए समय से काफी पहले पहुंचे स्‍टेशन और एयरपोर्ट, ये है वजह",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4441,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "6fa06f9bf149a93f": {
+    "label": "टर्बुलेंस वाली एअर इंडिया फ्लाइट: जांच में फ्रांस की एंट्री, एयरबस के एक्सपर्ट भी होंगे शामिल",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4428,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "388f7a8c2aa3ce1c": {
+    "label": "राजस्थान के 25 जिलों में बारिश का अलर्ट, मूसलाधार बरसात से जलसैलाब; स्कूल में फंसे 80 बच्चों का रेस्क्यू",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4391,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "61b06d3c80e8aa40": {
+    "label": "'हमें उकसाने की कोशिश न करे मुस्लिम लीग...', सावरकर विवाद पर भाजपा ने खींची 'लक्ष्मण रेखा'",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4387,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "9c0bc55f50da1d62": {
+    "label": "KBC 18 Premier: अमिताभ बच्चन के शो का ग्रैंड आगाज, जानिए पहले एपिसोड में क्या होगा खास",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4372,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "465c8ef2c39c6437": {
+    "label": "कोलंबिया में भूकंप के तेज झटके, 7.4 की तीव्रता से कांपी धरती; भारी तबाही की आशंका",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4338,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "80370e434f5ff34d": {
+    "label": "Census 2027 Explainer: लद्दाख से शुरू होगी आजाद भारत की पहली जाति जनगणना, जानिए कैसे होगा पूरा काम?",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4314,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "34c17a845a59c71d": {
+    "label": "FCRA से परिसीमन तक फंसे बिल…  क्या संसद के आखिरी दो दिन में निकलेगा रास्ता?",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.4106,
+        "engagement": 0.0,
+        "velocity": 0.8734,
+        "signals": 3
+      }
+    ]
+  },
+  "3c97ff83f55faf96": {
+    "label": "Sawan Shivratri 2026: सावन शिवरात्रि व्रत में क्या खाएं और क्‍या न खाएं कि कमजोरी न हो?",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3225,
+        "engagement": 0.0,
+        "velocity": 0.6401,
+        "signals": 3
+      }
+    ]
+  },
+  "b28be5c22abba302": {
+    "label": "स्लोवेनिया में भारतीय दूतावास को नुकसान पहुंचाने वाले कौन? विदेश मंत्रालय ने क्या कहा",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.3095,
+        "engagement": 0.0,
+        "velocity": 0.4874,
+        "signals": 2
+      }
+    ]
+  },
+  "fcd92bd6e4608c2d": {
+    "label": "छात्रों की बात सुने झारखंड सरकार, बल प्रयोग की हम निंदा करते हैं: राहुल गांधी",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.2716,
+        "engagement": 0.0,
+        "velocity": 0.4068,
+        "signals": 3
+      }
+    ]
+  },
+  "5e0d386e7fdf69bc": {
+    "label": "Parliament Monsoon Session: छात्रों के साथ हुआ अन्याय अमित शाह को देना होगा जवाब-राहुल",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.2663,
+        "engagement": 0.0,
+        "velocity": 0.4068,
+        "signals": 3
+      }
+    ]
+  },
+  "c00077eb95c7d1e3": {
+    "label": "Unemployment Rate: वित्त वर्ष की पहली तिमाही में कितनी रही बेरोजगारी दर? रोजगार आंकड़ों में ये रही खास बात",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1121,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "3a7e96da86199b72": {
+    "label": "चिट फंड घोटाला: वेलफेयर बिल्डिंग्स एंड एस्टेट्स प्राइवेट लिमिटेड पर ED की रेड, 182 बैंक खाते व गाड़ियां फ्रीज",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1113,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "2ecb6e6d89732286": {
+    "label": "Railways: जनरल-स्लीपर डिब्बों की सफाई पर रहेगी हर पल नजर, रेलवे ने बदला सफाई और कचरा उठाने का सिस्टम",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1108,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "bfe3e88c9008adf8": {
+    "label": "Jaipur में कांग्रेस का हल्लाबोल, खाचरियावास का भजनलाल सरकार पर हमला",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1103,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "fcdd664efd66d7ea": {
+    "label": "एअर इंडिया ने क्यों जारी की ट्रैवल एडवाइजरी?: यात्रियों से एयरपोर्ट जल्दी पहुंचने की अपील, जानें फैसले की वजह",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1098,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "6f5e54916711d243": {
+    "label": "'जंतर-मंतर में नहीं चली गोली': जेपी नड्डा का राहुल पर हमला, बोले- संसद नहीं चलने देते; झारखंड पर चुप क्यों?",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1087,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "46bdcc611f7a5400": {
+    "label": "Supreme Court: ड्रग तस्करी से जुड़े मामलों में देरी पर सुप्रीम कोर्ट सख्त, केंद्र से मांगा जवाब; अगला कदम क्या?",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.1001,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "ab42522a8c3e977f": {
+    "label": "Surat: सूरत के मेडिकल कॉलेज हॉस्टल में रेजिडेंट डॉक्टर की मौत, जांच में रैगिंग की पुष्टि; चार सीनियर सस्पेंड",
+    "points": [
+      {
+        "ts": "2026-08-10T15:11:33.765139+00:00",
+        "opportunity": 0.0987,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
