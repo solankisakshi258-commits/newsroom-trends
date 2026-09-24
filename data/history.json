@@ -1,44 +1,4 @@
 {
-  "ca715a09273acc65": {
-    "label": "ABVP",
-    "points": [
-      {
-        "ts": "2026-09-14T19:16:26.169325+00:00",
-        "opportunity": 0.6288,
-        "engagement": 0.6977,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-17T15:16:56.235297+00:00",
-        "opportunity": 0.4394,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-17T19:13:27.869351+00:00",
-        "opportunity": 0.4935,
-        "engagement": 0.334,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-19T16:46:13.385573+00:00",
-        "opportunity": 0.5495,
-        "engagement": 0.0,
-        "velocity": 0.9014,
-        "signals": 4
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4392,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      }
-    ]
-  },
   "7e2b872bcc9d06d6": {
     "label": "#UPRise2026",
     "points": [
@@ -58,67 +18,6 @@
       },
       {
         "ts": "2026-09-21T19:42:38.740916+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "ea447541d2b56e32": {
-    "label": "Qazi",
-    "points": [
-      {
-        "ts": "2026-09-17T22:24:14.605975+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-18T21:36:19.733884+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T21:42:34.179224+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T00:05:26.893319+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -380,133 +279,6 @@
       }
     ]
   },
-  "22881c614b2b7211": {
-    "label": "NSUI",
-    "points": [
-      {
-        "ts": "2026-09-19T13:21:58.782945+00:00",
-        "opportunity": 0.5655,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-19T16:46:13.385573+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T19:17:14.275219+00:00",
-        "opportunity": 0.5599,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5773,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "80e209d66182a118": {
-    "label": "à¤®à¤¾à¤¸à¥à¤® à¤¶à¤°à¥à¤®à¤¾",
-    "points": [
-      {
-        "ts": "2026-09-19T13:21:58.782945+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T16:46:13.385573+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T19:17:14.275219+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T21:42:34.179224+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T00:05:26.893319+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "310c6ec1490ae21d": {
-    "label": "Balatkari Bhand Masoom Sharma",
-    "points": [
-      {
-        "ts": "2026-09-19T13:21:58.782945+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T16:46:13.385573+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T19:17:14.275219+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T21:42:34.179224+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T00:05:26.893319+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "6dfdc16a05a3590a": {
     "label": "आज क्या बनाऊं: बिना तेल और धूप के छाछ में भिगोकर हरी मिर्च का अचार कैसे बनाएं? नोट करें सीक्रेट रेसिपी",
     "points": [
@@ -548,331 +320,6 @@
       {
         "ts": "2026-09-21T07:07:43.079563+00:00",
         "opportunity": 0.4545,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "54b68fe83f6c2853": {
-    "label": "700 साल पुरानी अमीर खुसरो की गजल से बना लता मंगेशकर का कालजयी गीत, गाने का मतलब नहीं जानते होंगे आप, मिथुन-अनीता ने बनाया सदाबहार",
-    "points": [
-      {
-        "ts": "2026-09-19T13:21:58.782945+00:00",
-        "opportunity": 0.464,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T16:46:13.385573+00:00",
-        "opportunity": 0.456,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T19:17:14.275219+00:00",
-        "opportunity": 0.4256,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T21:42:34.179224+00:00",
-        "opportunity": 0.4172,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T00:05:26.893319+00:00",
-        "opportunity": 0.4055,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4895,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "8dec299ab61ebc59": {
-    "label": "डॉक्टर साहब गए कोर्ट, पीछे से ड्राइवर बन गया 'मुन्नाभाई MBBS'; मरीजों को लिख दीं दवाइयां, FIR दर्ज",
-    "points": [
-      {
-        "ts": "2026-09-19T13:21:58.782945+00:00",
-        "opportunity": 0.4581,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T16:46:13.385573+00:00",
-        "opportunity": 0.4237,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T19:17:14.275219+00:00",
-        "opportunity": 0.4018,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4185,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4023,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4122,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.3996,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "4d80d47412808044": {
-    "label": "à¤°à¤¾à¤¹à¥à¤² à¤à¤¾à¤à¤§à¥",
-    "points": [
-      {
-        "ts": "2026-09-19T16:46:13.385573+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T19:17:14.275219+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T21:42:34.179224+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "8b0bce2c29a5197a": {
-    "label": "कुमार सानू-अलका याज्ञनिक का 35 साल पुराना गाना, प्रोड्यूसर्स ने ठुकराया सॉन्ग, फिर भी बना 1991 का ब्लॉकबस्टर गाना, इसकी धुन पर धड़कता है आशिकों का दिल",
-    "points": [
-      {
-        "ts": "2026-09-19T16:46:13.385573+00:00",
-        "opportunity": 0.4745,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T19:17:14.275219+00:00",
-        "opportunity": 0.4393,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T21:42:34.179224+00:00",
-        "opportunity": 0.4278,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T00:05:26.893319+00:00",
-        "opportunity": 0.4136,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T05:20:33.339609+00:00",
-        "opportunity": 0.447,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4889,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "1719e21a792df29b": {
-    "label": "Rahul Gandhi",
-    "points": [
-      {
-        "ts": "2026-09-19T19:17:14.275219+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-19T21:42:34.179224+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T00:05:26.893319+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "dc1b3cca89b33630": {
-    "label": "Elavenil Valarivan",
-    "points": [
-      {
-        "ts": "2026-09-20T05:20:33.339609+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "b4e6ad9f7523ddb6": {
-    "label": "à¤¶à¥à¤°à¥ à¤¸à¥à¤¨à¥à¤² à¤¬à¤à¤¸à¤²",
-    "points": [
-      {
-        "ts": "2026-09-20T05:20:33.339609+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "3db23b1afb6f5af8": {
-    "label": "à¤°à¥à¤²à¤µà¥ à¤¸à¥à¤°à¤à¥à¤·à¤¾",
-    "points": [
-      {
-        "ts": "2026-09-20T05:20:33.339609+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "26aa4076fa0c5f0f": {
-    "label": "Om Shanti",
-    "points": [
-      {
-        "ts": "2026-09-20T05:20:33.339609+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -973,44 +420,6 @@
       },
       {
         "ts": "2026-09-22T01:48:17.667619+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "316c99d973189f67": {
-    "label": "#à¤ªà¤°à¤®à¥à¤¶à¥à¤µà¤°_à¤à¤_à¤¦à¤¯à¤¾_à¤à¤°à¥",
-    "points": [
-      {
-        "ts": "2026-09-20T05:20:33.339609+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "dab96831e72f296b": {
-    "label": "#5DayBankingNow",
-    "points": [
-      {
-        "ts": "2026-09-20T05:20:33.339609+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -1374,39 +783,6 @@
       }
     ]
   },
-  "d4b578917d8a6fdf": {
-    "label": "#hbd_ravindrachavan",
-    "points": [
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "8592996c0a4ffcdb": {
     "label": "विदेशों में ड्राइविंग का लेना चाहते हैं मजा, घर बैठे ऐसे बनवाएं IDP; जानें प्रोसेस और फीस की पूरी जानकारी",
     "points": [
@@ -1441,86 +817,6 @@
       {
         "ts": "2026-09-21T14:30:33.942622+00:00",
         "opportunity": 0.4138,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "163c0928ddf1f27f": {
-    "label": "'साइबर हमलों और अन्य खतरों के लिए तैयार रहें': सेमीकंडक्टर उद्योग को वैष्णव ने किया आगाह, और क्या कहा?",
-    "points": [
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.4464,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.3681,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3695,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.108,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.1075,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1017,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "a8138434a360261e": {
-    "label": "‘ठाकुर सज्जन सिंह’ की मदद के लिए आगे आए थे यूपी सीएम योगी आदित्यनाथ, 20 लाख की राशि खाते में थी भिजवाई",
-    "points": [
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.4438,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.3667,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3685,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.489,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -1563,260 +859,6 @@
         "opportunity": 0.4087,
         "engagement": 0.0,
         "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "da0d5270385e95a8": {
-    "label": "90s की वेडिंग कैसेट्स में जरुर होगा 1996 में आई फिल्म का गाना, अल्का याग्निक और उदित नारायण की आवाज का छाया जादू, कहलाता है पॉपुलर वेडिंग सॉन्ग",
-    "points": [
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.4265,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.357,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4892,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "f2b83179c45d2530": {
-    "label": "क्या बंगाल में बदलेगी विपक्ष की सियासी तस्वीर?: नंदीग्राम उपचुनाव में कांग्रेस के साथ ममता, किया ये बड़ा इशारा",
-    "points": [
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.3075,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.3651,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3674,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.1065,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.1063,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1008,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "a5a1fc56e6b61113": {
-    "label": "बृजभूषण शरण सिंह ने बाबा रामदेव पर फिर साधा निशाना",
-    "points": [
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.1143,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.0915,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.0901,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.0883,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.0916,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.0897,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "f2c1b78921ae2f69": {
-    "label": "'पद पर थे, तब नहीं आई मुसलमान की याद': हामिद अंसारी के किस बयान पर मचा बवाल? मुस्लिम धर्मगुरुओं ने किया किनारा",
-    "points": [
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.1136,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.0898,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.0881,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.0914,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.0895,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "2e871783e6f4d52f": {
-    "label": "'एसआईआर है शाह इंस्टिगेटेड रिमूवल': कांग्रेस का दावा- 7.8 करोड़ नाम हटे, 5.43 करोड़ मतदाताओं पर लटकी तलवार",
-    "points": [
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.1075,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.0876,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.0873,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.0863,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.09,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.0885,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "6645359d4401e887": {
-    "label": "'सरकार की पहल से बेरोजगारी घटी': केंद्रीय राज्यमंत्री का दावा- देश में स्टार्टअप बढ़कर ढाई लाख से ज्यादा हुए",
-    "points": [
-      {
-        "ts": "2026-09-20T10:03:40.961551+00:00",
-        "opportunity": 0.107,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.0874,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.0871,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.0862,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.0899,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.0884,
-        "engagement": 0.0,
-        "velocity": 0.0867,
         "signals": 1
       }
     ]
@@ -1891,1237 +933,6 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
-      }
-    ]
-  },
-  "887444a71db09a67": {
-    "label": "à¤°à¤µà¤¿ à¤¦à¤¾à¤¦à¤¾",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "6f1c9a348b17ad51": {
-    "label": "tehalka bigcricket operations",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "be6ce6081a9167b0": {
-    "label": "LPG बुकिंग के लिए बॉयोमेट्रिक जरूरी, नया नियम 1 अक्टूबर से होगा लागू, जानें कैसे पूरी करें BAA प्रक्रिया",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4255,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4103,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3963,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4074,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1196,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "a76a59e7965719b3": {
-    "label": "अपने हिसाब से नियम मत बदलिए... चंद्रशेखरन विवाद पर टाटा ट्रस्ट्स ने क्यों याद दिलाया साइरस मिस्त्री का केस?",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4239,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4092,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3955,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4068,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1191,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "b925d1dd5570d30d": {
-    "label": "पाकिस्तान सरकार को हर दिन 120 अरब रुपये स्वाहा होने का डर, जमात से बात तो इमरान खान की बहन हिरासत में",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4235,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3797,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3805,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.2846,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1372,
-        "engagement": 0.0,
-        "velocity": 0.1374,
-        "signals": 2
-      }
-    ]
-  },
-  "37a64043edd071a0": {
-    "label": "क्या आप साथ रहने की सोच रहे हैं? एक्सपर्ट से जानिए 3 ऐसी बात, जो साथ रहने के फैसले से पहले जरूर सोचनी चाहिए",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.422,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4078,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3945,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.406,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1185,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "ef72965a388632b4": {
-    "label": "क्या आप पहली बार विदेश जाने की सोच रहे हैं? यहां जानिए डेस्टिनेशन कैसे चुनें और किन बातों का रखें ध्यान",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4217,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4076,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3944,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4059,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1184,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "b6b3de1b11ad47fe": {
-    "label": "एंडोमेट्रियोसिस से मां बनने में आ सकती है मुश्किल? IVF पर भी पड़ सकता है असर",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4212,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4072,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3941,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4056,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1183,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "23a24e4eb715a540": {
-    "label": "करोड़ों की लग्जरी गाड़ी में बैठने पर ट्रोल हुईं मैथिली ठाकुर,  कंगना रनौत ने दिया करारा जवाब बोलीं- हम अच्छी जिंदगी क्यों नहीं जी सकते",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4197,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4062,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3934,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4051,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1178,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "1d44cf3469800999": {
-    "label": "आपके बच्चे के लिए 10 प्यारे और यूनिक नाम, जो छू जाए दिल को, जानें अर्थ और महत्व",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.419,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4057,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.393,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4048,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1176,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "caad051d52f44f01": {
-    "label": "DUSU में जाट-गुर्जर समीकरण लगातार क्यों पड़ता है भारी, पूर्वांचल के छात्र कैसे पड़ रहे कमजोर; इनसाइड स्टोरी",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4175,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4046,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3923,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1171,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "9731856becafe2a7": {
-    "label": "वेश्यावृत्ति करो या फिर 7 साल की उम्र में शादी तय; गुजरात के इस गांव में लड़कियों के पास बचते हैं दो ही रास्ते",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4162,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4037,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3916,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4036,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1167,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "51723ab8c961fb99": {
-    "label": "Kal ka Mausam: दिल्ली-NCR में छाता लेकर निकलें या नहीं? बिहार-यूपी के लिए भी IMD ने बता दिया अपडेट",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4156,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4032,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3913,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4033,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1165,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "988d4b397881526a": {
-    "label": "NTA Exam Scorecard खो गया है? जानिए डुप्लीकेट स्कोरकार्ड दोबारा पाने का पूरा प्रोसेस",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4125,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4011,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3897,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4021,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1156,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "7421515950e875b2": {
-    "label": "असली हल्दी की पहचान कैसे करें? अपनाएं ये 2 हैक, जिनसे मिनटों में हो जाएगी पहचान",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4115,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4003,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3892,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4017,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1152,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "785e95001aaa6c4c": {
-    "label": "काजल राघवानी पर फैन्स का हमला, गाड़ी पर फेंके पत्थर, गाड़ी का शीशा तोड़ा, एक झलक के लिए मचा बवाल",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4099,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3992,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3884,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.401,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1147,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "9be1f2d253f0edc4": {
-    "label": "UGC ने बदला नियम, अब MPT और MOT की डिग्री सिर्फ नाम की नहीं, स्पेशलाइजेशन के साथ मिलेगी",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4081,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3979,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3874,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4002,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1142,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "d5f6e9b94aba4b94": {
-    "label": "मोनिका यादव की वायरल फोटो असली, IAS होने का दावा निकला फर्जी, पिता-पति हैं जिला कलेक्टर",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4071,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3972,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3869,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.3999,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1139,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "6e20d5c1597b86ab": {
-    "label": "स्मार्ट सिटी के लिए 1.64 लाख करोड़ खर्च, GPS और कैमरे भी दुरुस्त; फिर हमारी सड़कें साफ क्यों नहीं?",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4068,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.397,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3868,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.3997,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1138,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "28820c8bc2e3ee18": {
-    "label": "किशोर कुमार के गाने ऑल इंडिया रेडियो पर हो गए थे बैन! एक शर्त की वजह से भड़का था AIR का अफसर",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4051,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3958,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3859,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.399,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1132,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "9f774b982df083c0": {
-    "label": "त्योहारी सीजन में हवाई किरायों में भारी उछाल, CTI ने सरकार से एयरलाइंस पर लगाम लगाने की मांग की",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4044,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3953,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3856,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.3988,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.113,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "a6e71b651f465b69": {
-    "label": "पेशाब से आने लगी है तेज बदबू? इसे हल्के में न लें, शरीर में चल रही इन 5 समस्याओं का हो सकता है संकेत",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4033,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3945,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.385,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.3983,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1127,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "198277013de4e006": {
-    "label": "देश में दौड़ेंगी 80 वंदे भारत ट्रेनें, दिल्ली-हावड़ा रूट से लेकर लखनऊ, इंदौर, मुंबई-अहमदाबाद तक फायदा, 24 हजार करोड़ का प्‍लान",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.403,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3943,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3849,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.3982,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1126,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "8ae06c08571b79bd": {
-    "label": "'गुजरात में नाला भरना भी आपदा, तो बिहार में बाढ़ क्यों नहीं?' तेजस्वी यादव का सरकार पर बड़ा हमला",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4026,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.394,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3846,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.398,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1125,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "8e2830124e91152b": {
-    "label": "गिरगांव चा राजा PM मोदी के पसंदीदा गणपति क्यों बने? जानिए इसकी खासियत",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4014,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3932,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.384,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.3975,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1121,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "68cbd2e295b417c9": {
-    "label": "UGC के नए नियमों के खिलाफ आगरा में फिर तेज हुआ आंदोलन, पुलिस बल तैनात",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4011,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3929,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3839,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.3974,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.112,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "ba889e4a14c62263": {
-    "label": "दूरदर्शन पर 78 एपिसोड की रामायण की कमाई ने रचा था इतिहास, बजट से तीन गुना ज्यादा हुई थी कमाई, हनुमान अंश से 39 साल पहले चला था इसका जादू",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.4004,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3925,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3835,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.3971,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1118,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "9b0c15ecba8d4bea": {
-    "label": "दिल्ली-NCR से 4 घंटे में मसूरी, नए हाइवे से पहाड़ का सफर होगा आसान, देहरादून के जाम से भी मिलेगी मुक्ति",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.3986,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3912,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3826,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.12,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1112,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "d54179cc415bfb62": {
-    "label": "भाजपा छोड़ने की अफवाहों पर रीता बहुगुणा जोशी का बड़ा बयान, कहा- 'कांग्रेस में जाने की खबर पूरी तरह झूठी'",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.3963,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3896,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3814,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.1191,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1105,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "57adf442200ec87b": {
-    "label": "कद्दू नहीं, इसके फूलों से बनाएं कुरकुरी पकौड़ी, स्वाद ऐसा कि बार-बार मांगकर खाएंगे बच्चे",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.3435,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3921,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3832,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.1205,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1116,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "128522ebc6716473": {
-    "label": "भाजपा का अब पंजाब में भी बिहार और महाराष्ट्र वाला मॉडल, अकाली के सामने कैसे रखी बराबरी वाली शर्त",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.3429,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3643,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3691,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.1384,
-        "engagement": 0.0,
-        "velocity": 0.1374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1114,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "7cc023f00de9bc69": {
-    "label": "'भारत के लिए असली खतरा हिंदू दक्षिणपंथी...', हामिद अंसारी के बयान पर बवाल, बीजेपी ने किया पलटवार",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.2515,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.2573,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.2538,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.278,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1321,
-        "engagement": 0.0,
-        "velocity": 0.1374,
-        "signals": 2
       }
     ]
   },
@@ -3285,331 +1096,6 @@
       }
     ]
   },
-  "76efc3cecf86518b": {
-    "label": "पश्चिम बंगाल: जादवपुर में टीएमसी कार्यालय और नेताओं के घरों में तोड़फोड़, भाजपा ने आरोपों से किया इनकार",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.0959,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.0932,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.0906,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.0934,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1096,
-        "engagement": 0.0,
-        "velocity": 0.1374,
-        "signals": 2
-      }
-    ]
-  },
-  "00a18133ad5c3227": {
-    "label": "जापानी एयर चीफ ने तेजस में भरी उड़ान: वायु सेना प्रमुख एपी सिंह बोले- भारत के स्वदेशी विमान पर भरोसे की मुहर",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.0939,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.0918,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.0895,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.0926,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.0904,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "6363f8a0c5ac63c7": {
-    "label": "इंडिगो फ्लाइट में मचा हड़कंप! यात्री की तबीयत बिगड़ी तो पायलट ने...",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.0935,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.0915,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.0893,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.0924,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.0903,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "11693c4b3b9862af": {
-    "label": "'कुड़मी आंदोलन के सभी पुराने केस होंगे वापस': सीएम शुभेंदु ने किया बड़ा ऐलान, 50 करोड़ के बजट का भी वादा",
-    "points": [
-      {
-        "ts": "2026-09-20T14:11:18.073237+00:00",
-        "opportunity": 0.0921,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.0905,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.0886,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.0919,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.0899,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "931e1ec515454021": {
-    "label": "laliga",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.7325,
-        "engagement": 0.5643,
-        "velocity": 0.9242,
-        "signals": 5
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.7327,
-        "engagement": 0.6667,
-        "velocity": 0.8734,
-        "signals": 3
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.7126,
-        "engagement": 0.5659,
-        "velocity": 0.8734,
-        "signals": 3
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5954,
-        "engagement": 0.8036,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "973519d64ec22439": {
-    "label": "man utd",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.6944,
-        "engagement": 0.475,
-        "velocity": 0.8734,
-        "signals": 3
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.6759,
-        "engagement": 0.4544,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.6759,
-        "engagement": 0.4544,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.6759,
-        "engagement": 0.4544,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "83655a5560ef1c43": {
-    "label": "clock",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.6332,
-        "engagement": 0.6977,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.5944,
-        "engagement": 0.6977,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.5723,
-        "engagement": 0.6977,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5558,
-        "engagement": 0.6977,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "f932a59155d86f3a": {
-    "label": "amit shah",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.6281,
-        "engagement": 0.6071,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.5854,
-        "engagement": 0.6071,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.561,
-        "engagement": 0.6071,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5429,
-        "engagement": 0.6071,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "cd82a00817c01b51": {
-    "label": "tata aeris",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.6254,
-        "engagement": 0.6071,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.6016,
-        "engagement": 0.6977,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.6017,
-        "engagement": 0.8178,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.584,
-        "engagement": 0.8178,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "9703d30efa01cb7f": {
     "label": "Rhiti",
     "points": [
@@ -3636,39 +1122,6 @@
       },
       {
         "ts": "2026-09-23T22:13:18.154796+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "70013a99318c841c": {
-    "label": "Rashford",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -3723,336 +1176,6 @@
       }
     ]
   },
-  "a655e22d94cb87d8": {
-    "label": "जम्मू-कश्मीर: रिश्वतखोरी के जाल में फंसे कृषि विभाग के अधिकारी, 3 गिरफ्तार",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4623,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4338,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4375,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4188,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "6a919644c5c0445a": {
-    "label": "मुख्यमंत्री भगवंत मान ने धूरी से घर-घर जाकर शुरू की चुनाव प्रचार की मुहिम, ‘मान दा मुनाफा’ को बनाया केंद्र",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4602,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4322,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4363,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4178,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "db5b432b1ca17319": {
-    "label": "क्रांति या उथल-पुथल नहीं, बुद्ध के मध्यम-मार्ग और स्थिरता के उपासक हैं नरेंद्र मोदी",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4601,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4322,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4363,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4178,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "a6c75654a9056db6": {
-    "label": "MP: चिकन के रेट को लेकर खूनी खेल, छात्र को लाठियों से पीटा और नाले में फेंका; दुकानदार समेत 4 हिरासत में",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4583,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4308,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4352,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.417,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "3c9ab85ee0e4e660": {
-    "label": "मेरे पिता लकड़ी काटने से पहले सिर झुका कर माफी मांगते थे… राष्ट्रपति मुर्मू ने क्यों कहा ऐसा",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.458,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4307,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.435,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4169,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "32b7ccd1643fad24": {
-    "label": "1965 भारत-पाक वॉर के हीरो का आखिरी इंटरव्यू: निधन से तीन दिन पहले  NDTV को बताया था कि जंग में हुआ क्या था!",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4557,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.429,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4337,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4159,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "8b4f2b566e02364f": {
-    "label": "BJP की 35 हजार किलोमीटर की यात्रा कहां-कहां से गुजरेगी? सेवा संकल्प अभियान में निकली हैं 20 टीमें",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4465,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4223,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4284,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4118,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "22b0c9413f79ecbd": {
-    "label": "काशी का पिशाच मोचन कुंड, जहां श्राद्ध व तर्पण से पितरों को मिलता है मोक्ष",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4446,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.421,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4272,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.411,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "92479e80f427ce9b": {
-    "label": "न भूख-प्यास लगती है, न नींद आती है... चप्पल-पयजामा पहनने वाले हूती विद्रोहियों को कहां से मिलती है ताकत?",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4428,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4197,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4262,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4102,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "72370fea5c9290bd": {
-    "label": "सलमान खान ने वीकएंड का वार में खोली काजी तौकीर की पोल, घरवालों ने भर भरके दी गालियां",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4418,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.419,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4256,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4098,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "72416427420939d1": {
     "label": "कभी पैसे को तरसा, अब USA में PhD के लिए मिले 2.6 करोड़, बिहार के नीरज की सफलता की कहानी",
     "points": [
@@ -4087,72 +1210,6 @@
       {
         "ts": "2026-09-21T07:07:43.079563+00:00",
         "opportunity": 0.4224,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "cdbe28a7e09d76ff": {
-    "label": "IPS केके ब‍िश्‍नोई की टीम ने पकड़ी हनीट्रैप गैंग, पुल‍िस के सामने फूट-फूटकर रोने लगी मह‍िला",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4389,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4169,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.424,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4085,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "85da9e6fe5dc10f4": {
-    "label": "घर के बाहर सो रहा था युवक, सुबह मिली सिर कटी लाश; इलाके में मचा कोहराम",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4369,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4155,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4228,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4076,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -4209,824 +1266,6 @@
         "opportunity": 0.4412,
         "engagement": 0.0,
         "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "b4bb56106c697ee6": {
-    "label": "लता मंगेशकर का ये गाना 35 साल से गाते आ रहे बंजारे, राजस्थान की मिट्टी से निकला था ये विरह गीत, श्रीदेवी के डांस और चुलबुले एक्सप्रेशन से बना डांस नंबर",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4282,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4092,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4178,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4038,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "288a3db12f3a2f2b": {
-    "label": "'मायसा' का दमदार टीजर रिलीज, दिखा रश्मिका मंदाना का अनदेखा अवतार",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4268,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4082,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.417,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4032,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "05a28409b21ad904": {
-    "label": "'नाराज फूफा' कौन? 'दिमागी नक्सल' से लेकर Gen-Z तक... NDTV पर किरेन रिजिजू का बेबाक इंटरव्यू",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4252,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4071,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4161,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4025,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "0c08aea1a24c2d02": {
-    "label": "1000 करोड़ की जमीन खरीदेगी आशियाना हाउसिंग, कहां-कहां बनेंगे घर और Flats?",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4204,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4036,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4132,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4004,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "c751ce841a16f635": {
-    "label": "हाथ में सिगरेट, बेबाक अंदाज… रजनीकांत की ‘जेलर 2’ में विद्या बालन की एंट्री, सामने आया वीडियो",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4198,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4104,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4468,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4294,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "7de6afa80bbbe80f": {
-    "label": "UP में मंत्रियों की नाराजगी का असर, अपर मुख्य सचिव समेत 10 IAS का ट्रांसफर",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4187,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4095,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4461,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4289,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "ab2d75bf150a6a56": {
-    "label": "जो सोवियत काल में नहीं हुआ, क्या वो कर रहे पुतिन? क्या रूस ने दिया अमेरिका में किलिंग ऑर्डर",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4183,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4021,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.412,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.3995,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "cad50c09712fe031": {
-    "label": "भाभी ऐश्वर्या राय की ये आदत ननद श्वेता बच्चन को करती है परेशान! करण जौहर के शो पर बताई थी अंदर की बात",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4154,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4104,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.3982,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "eb8f5b67cbb12c00": {
-    "label": "नीम करौली बाबा की बेटी ने 15 बार देखी 'हनुमान अंश', प्रोड्यूसर बोलीं- वो हर बार रोईं",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4153,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3999,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4103,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.3982,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "81f96834a25b5208": {
-    "label": "40 की उम्र के बाद भूलने लगी हैं छोटी-छोटी बातें? मेनोपॉज और अल्जाइमर के बीच क्या है कनेक्शन",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4144,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3993,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4098,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.3977,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "6e927082b45e41c4": {
-    "label": "47 साल का ये गेंदबाज है CPL 2026 में टॉप विकेट टेकर, धोनी के साथ खेल चुके हैं आईपीएल",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4116,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3972,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4082,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1202,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "d456bdee3f13b7b6": {
-    "label": "पीलीभीत टाइगर रिजर्व में अब 8 महीने तक घूम सकेंगे पर्यटक, वीकेंड पर टिकट होगी महंगी",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4109,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3968,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4078,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1199,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "d725721318f97ed7": {
-    "label": "NDTV पर DUSU के 'धुरंधर': हॉस्‍टल, प्लेसमेंट और सुरक्षा... बताया क्या करेंगे काम, NSUI की हार पर बोले शौकीन",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4109,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4269,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4108,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "ac89a5d2124129cb": {
-    "label": "कोंकणा सेन को हुआ डेंगू, एक्ट्रेस ने अस्पताल से फोटो शेयर कर दिया हेल्थ अपडेट",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4064,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4004,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4381,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.2865,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      }
-    ]
-  },
-  "0cd174a07b996846": {
-    "label": "ऑस्ट्रेलिया ने जिम्बाब्वे के जबड़े से छीनी जीत, एक गेंद पहले 1 विकेट से मारी बाजी",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.4054,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4162,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4234,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4081,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "2ed1a80cb610c504": {
-    "label": "किसानों को मालामाल बना सकता है कैक्टस, इससे कितनी कमाई?",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3987,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.388,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4007,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1145,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "4d0a41760468a126": {
-    "label": "जंगल में अचानक बंद पड़ जाए EV कार तो क्या करें, ऐसे मिलेगी राहत",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.398,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3875,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4003,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1142,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "1af1d0e80bdb9d5f": {
-    "label": "यूपी में वाहन चालान का सिस्टम बदला, 30 दिन में खुद हो जाएगा समाप्त, सीधे कोर्ट में नहीं होगी अपील",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3971,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3868,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.3998,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1138,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "090f8a38aadbea7e": {
-    "label": "फिटकरी से फेस मास्क कैसे बनाएं? नीलम कोठारी ने बताया DIY फेस पैक बनाने का आसान तरीका",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3925,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.271,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4149,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4017,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "806861fa6237c2b2": {
-    "label": "IND-A vs AUS-A: तेजल हसबनीस के 6 छक्के, अनुष्का शर्मा की फिफ्टी… ऑस्ट्रेलिया पर भारत की पहली जीत",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3806,
-        "engagement": 0.0,
-        "velocity": 0.8734,
-        "signals": 3
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3878,
-        "engagement": 0.0,
-        "velocity": 0.8734,
-        "signals": 3
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4569,
-        "engagement": 0.0,
-        "velocity": 0.8734,
-        "signals": 3
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4169,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "7c1f34ad37b6e84a": {
-    "label": "रानू मंडल ने गाया आइटम सॉन्ग, कांटा लगा पर झूमा पूरा इंटरनेट",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.38,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.3746,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.1135,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1063,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "bb4d5adf5af49955": {
-    "label": "राजस्थान SI भर्ती परीक्षा 5 साल बाद फिर शुरू, 2.18 लाख अभ्यर्थी मैदान में",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3759,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.1126,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.1111,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1045,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "71703f52abc91b85": {
-    "label": "दिल्ली में 3 दिनों की बैंक हड़ताल! SBI ने ग्राहकों को कहा- निपटा लें जरूरी काम",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.3732,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.1107,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.1096,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1033,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "818d15f2bfd68921": {
-    "label": "दालचीनी असली है या नकली, झट से ऐसे कर सकते हैं पता",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.371,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.1091,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.1084,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.1024,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
-      }
-    ]
-  },
-  "018bbd56b51f5386": {
-    "label": "संजय राउत का सतीश सालियान पर बड़ा दावा, बोले- 'हमें सब पता है कि...'",
-    "points": [
-      {
-        "ts": "2026-09-20T17:38:31.124895+00:00",
-        "opportunity": 0.2808,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.2713,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.2931,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.2799,
-        "engagement": 0.0,
-        "velocity": 0.4874,
         "signals": 2
       }
     ]
@@ -5250,32 +1489,6 @@
       }
     ]
   },
-  "3859bf053c86fbcf": {
-    "label": "8वें वेतन आयोग सैलरी",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.5934,
-        "engagement": 0.6071,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.567,
-        "engagement": 0.6071,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5475,
-        "engagement": 0.6071,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "6ca01d30aada8263": {
     "label": "ST Act",
     "points": [
@@ -5415,422 +1628,6 @@
       }
     ]
   },
-  "4b9139bb0b6a38c1": {
-    "label": "2 अक्टूबर तक करूंगा इंतजार, ओवैसी का सपा को अल्टीमेटम, BJP को रोकना है तो साथ आओ’",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.462,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4602,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.436,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "e2fa30ef194a487c": {
-    "label": "राजनीति में एंट्री करेंगे क्रिकेटर मोहम्मद शमी? जयंत चौधरी से मुलाकात के बाद चर्चा तेज",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4502,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4508,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4288,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "da338bda2e643da3": {
-    "label": "अचानक मोहम्मद शमी के UP चुनाव लड़ने की अफवाहें क्यों उड़ने लगीं?",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.45,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4506,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4288,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "3ff33b1581b63397": {
-    "label": "कांग्रेस के सामने ममता का सरेंडर, अस्तित्व खोने का डर",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4466,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4479,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4267,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "e8acca36b10bd868": {
-    "label": "बड़गाईं जमीन मामले में CM हेमंत सोरेन पर आज तय हो सकते हैं आरोप, PMLA कोर्ट में अहम सुनवाई",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4453,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4469,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4259,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "fac968648365e8d3": {
-    "label": "IIT बॉम्बे ने द‍िए UPSC टॉपर, IAS कनिष्क कटारिया-शुभम कुमार के AIR-1 बनने की कहानी",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4442,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4459,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4252,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "b82e353391bd099c": {
-    "label": "Navi Mumbai Fire: नवी मुंबई के दिघा में फर्नीचर गोदाम में भीषण आग",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4426,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4447,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4242,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "790f0228ec6148bf": {
-    "label": "अमेरिका गहरे संकट में, कोरोना से भी ज्यादा खराब अभी का समय मान रहे अमेरिकी बिजनेसमैन",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4418,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.444,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4237,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "2bad6da6441a6751": {
-    "label": "क्या सिर्फ महिलाएं होती हैं गोल्ड डिगर? रिसर्च ने उठाया बड़ा सवाल",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4397,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4423,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4224,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "1fa83988e8c688f0": {
-    "label": "ETPL 2026 Final: एडिनबर्ग रॉकर्स बनी चैंपियन! एंड्रीज गौस के 90 रन बेलफास्ट वूल्व्स पर पड़े भारी",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4384,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4413,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4217,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "c5c064e9eac33f70": {
-    "label": "रजत पाटीदार का जबरदस्त शतक लेकिन सारांश जैन चूके, रणजी ट्रॉफी से पहले दिखा कमाल",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4375,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4406,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4211,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "6ba124a11dd030f2": {
-    "label": "Bigg Boss 20: एक गलती पड़ी भारी, सिर्फ 14 दिन में सलमान खान ने इस कंटेस्टेंट को दिखाया बाहर का रास्ता",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4357,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4391,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.42,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "7f6f85bb9c88b2a7": {
-    "label": "बाराबंकी में बारिश के पानी भरे गड्ढे में डूबे 3 मासूम, नहाने के दौरान हुआ हादसा",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4347,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4383,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4194,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "73ea83c51a7b6043": {
-    "label": "टाटा ग्रुप की जंग में दो बड़े Legal Eagles: सिंघवी और साल्‍वे के तर्कों से समझिए आगे क्या होगा",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4252,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4596,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.3028,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      }
-    ]
-  },
-  "1604c8c3cedc9303": {
-    "label": "रूस में वोटिंग के अंतिम दिन यूक्रेन का ड्रोन वार, क्या पुतिन के वर्चस्व को चुनौती देने की तैयारी?",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4193,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.3182,
-        "engagement": 0.0,
-        "velocity": 0.4874,
-        "signals": 2
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4211,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "63c1528907240875": {
-    "label": "अखिलेश यादव का यूपी विधानसभा चुनाव में बड़ा प्लान- हर विधानसभा में कम करेंगे भाजपा के 27 हजार वोट",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.4,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4104,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.3982,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "197c54f46f1ee1b3": {
     "label": "लालबाग में गणपति दर्शन के बीच हादसा: करंट लगने से बच्ची-महिला की मौत; चार घायल, स्टॉल संचालक पर केस",
     "points": [
@@ -5864,51 +1661,6 @@
       }
     ]
   },
-  "7e60265daff66ded": {
-    "label": "अपना नेता ढूंढ रही है नई पीढ़ी…राहुल गांधी के ‘छात्रों की गूंज’ पर बोले शशि थरूर, BJP हमलावर",
-    "points": [
-      {
-        "ts": "2026-09-20T20:44:08.562332+00:00",
-        "opportunity": 0.2506,
-        "engagement": 0.0,
-        "velocity": 0.4068,
-        "signals": 3
-      },
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4423,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4225,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "cb29cb7fb4fd8e10": {
-    "label": "nfl",
-    "points": [
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.59,
-        "engagement": 0.6071,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.565,
-        "engagement": 0.6071,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "64c47922cb4c8395": {
     "label": "सुर्खियां: केरल में भारी बारिश से तबाही; ट्रंप-जेलेंस्की की मुलाकात तय; मेलोनी का बुर्के-नकाब पर फैसला",
     "points": [
@@ -5929,25 +1681,6 @@
       {
         "ts": "2026-09-21T07:07:43.079563+00:00",
         "opportunity": 0.3951,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "c7b1ea33ff75eee6": {
-    "label": "अयोध्या: 14 कोसी परिक्रमा से पहले एक्शन में प्रशासन, मकानों पर चलाया बुलडोजर",
-    "points": [
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4953,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4626,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -6006,85 +1739,6 @@
       }
     ]
   },
-  "ad95a01b2dad9627": {
-    "label": "Pisces Tarot Card Rashifal: रिश्तों में सीमाएं तय करना रहेगा जरूरी, धैर्य से मुश्किल हालात होंगे आसान",
-    "points": [
-      {
-        "ts": "2026-09-20T23:10:33.630653+00:00",
-        "opportunity": 0.4016,
-        "engagement": 0.0,
-        "velocity": 1.0,
-        "signals": 23
-      },
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.3807,
-        "engagement": 0.0,
-        "velocity": 1.0,
-        "signals": 23
-      }
-    ]
-  },
-  "6dfcf8225b976b13": {
-    "label": "inter miami",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.6368,
-        "engagement": 0.6977,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "05e241c7e3c419fc": {
-    "label": "fc barcelona match",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.6213,
-        "engagement": 0.6071,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "65a09b4a7dba55f5": {
-    "label": "ओपी राजभर का नया राग! बोले- 4 हिस्सों में बंटेगा UP, पूर्वांचल बना तो राजभर का बेटा बनेगा CM",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5156,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "7d87490562b9eb05": {
-    "label": "Earthshot Prize",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "48586bbd98849505": {
-    "label": "Butibori",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5147,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "dc2109b4595428da": {
     "label": "देश के इन 13 राज्यों में मूसलाधार बारिश-आंधी का IMD ने जारी किया हाई अलर्ट",
     "points": [
@@ -6098,90 +1752,6 @@
       {
         "ts": "2026-09-21T07:07:43.079563+00:00",
         "opportunity": 0.3987,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "0b538ef4228179c9": {
-    "label": "Weather Forecast 21 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5068,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "585b7dc7f90e29d2": {
-    "label": "3 साल में बनीं फिल्म, 2.9 करोड़ बजट में कमाए 86.5 लाख, 1994 की फ्लॉप आज है कल्ट, 7 गानों ने बदली तकदीर, आशा-एसपी की आवाज का जादू",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.505,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "35c2bc1f72b1ffe8": {
-    "label": "आज का राशिफल (Aaj Ka Rashifal), 21 सितंबर 2026: सोमवार को ग्रहों का बड़ा बदलाव, इन 8 राशियों के लिए खुलेगी तरक्की की राह",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5043,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "07464289a5ae6f75": {
-    "label": "जापान: 1 लाख बुजुर्गों के बीच क्यों वायरल है डायपर्स की कहानी?",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5028,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "4d8b2950d0107dec": {
-    "label": "बिहार में फिर NEET छात्रा की संदिग्ध मौत, कमरे में फंदे से लटकता मिला शव… हत्या का आरोप",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.502,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "f7ad809f976250e3": {
-    "label": "10 साल में करीना कपूर ने दी 3 FLOP, 8 में से 5 फिल्में चलीं, ‘दायरा’ का क्या होगा?",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.5014,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "f902565c850dba70": {
-    "label": "कानपुर में 5000 EVM से छेड़छाड़…UP चुनाव से पहले बड़ा दावा, DEO ने क्या दिया जवाब?",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.496,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -6207,18 +1777,6 @@
       }
     ]
   },
-  "bbdedf6edcf5b1c8": {
-    "label": "पाकिस्तानी क्रिकेटर का टूटा अंगूठा, एशियन गेम्स से बाहर, 6 फीट 2 इंच लंबे इस खिलाड़ी को टीम में मौका",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4933,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "b5b845d7c1825f72": {
     "label": "रॉकेट से सैटेलाइट तक देश में बनेंगे अहम पुर्जे: इसरो ने निकाले टेंडर, सौर पैनल भी होंगे स्वदेशी",
     "points": [
@@ -6232,66 +1790,6 @@
       {
         "ts": "2026-09-21T07:07:43.079563+00:00",
         "opportunity": 0.3905,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "d6489dfebd8908cd": {
-    "label": "कभी घर-घर सामान बेचता था सामान, फिर यूं बने बॉलीवुड का खूंखार विलेन, दो शादियों के बाद भी हैं अकेले",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4888,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "a8a72b75222b2334": {
-    "label": "पद्मा एकादशी व्रत कब है? जानिए सही तिथि, पूजा-विधि, मंत्र और आरती",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4872,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "bf7407d8c3b52813": {
-    "label": "Gen Z पर फोकस! नितिन नबीन ने सोशल मीडिया वर्कशाप का किया उद्घाटन, डिजिटल रणनीति पर मंथन",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4871,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "aa63b617673cc806": {
-    "label": "छोटे गमले में नींबू का पौधा कैसे उगाएं? जानिए नींबू के पौधे में क्या डालने से जल्दी बड़ा होता है और लगाने का आसान तरीका",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.486,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "4cfed8fee4a6eb24": {
-    "label": "दैनिक अंक ज्योतिष (Dainik Ank Jyotish 21 September 2026): किसी को मिलेगा नई शुरुआत का मौका, तो किसी को संभालनी होगी जिम्मेदारी",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4837,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -6336,30 +1834,6 @@
       }
     ]
   },
-  "d586ee028c23095a": {
-    "label": "सूडान में बड़ा हादसा, सोने की खदान ढही, 11 लोगों की मौत, कई लापता",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4801,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "0fda8f1607e774a4": {
-    "label": "21 सितंबर का पंचांग: अमृतकाल में करें कोई भी शुभ काम, जानें अभिजीत मुहूर्त और राहुकाल का समय",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4796,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "00be0d33c517fca0": {
     "label": "विडंबना: बेटियों को जिस्मफरोशी से बचाने के लिए 7-12 साल में सगाई, गुजरात के वडिया की कड़वी हकीकत",
     "points": [
@@ -6373,30 +1847,6 @@
       {
         "ts": "2026-09-21T07:07:43.079563+00:00",
         "opportunity": 0.3846,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "02c7b8f143f41074": {
-    "label": "Asian Games 2026 Live Updates: निशानेबाजों से मेडल की आस, सुचिका के सेमीफाइनल पर भी नजर",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4767,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
-  "4bda3a5d426140a7": {
-    "label": "रूस संसदीय चुनाव में फिर पुतिन का दबदबा, ‘यूनाइटेड रशिया’ की जीत लगभग तय!",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4767,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -6422,42 +1872,6 @@
       }
     ]
   },
-  "2b78c90cfd77de08": {
-    "label": "आज की ताजा खबर LIVE: BJP अध्यक्ष नितिन नवीन दो दिवसीय दौरे पर आज जाएंगे उत्तर प्रदेश",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4396,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "37ed7c0f395e4c3e": {
-    "label": "इटली के स्कूलों में बुर्का-नकाब बैन, PM मेलोनी बोलीं- विदेशी छात्रों को इतालवी भाषा भी सीखनी होगी",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.4177,
-        "engagement": 0.0,
-        "velocity": 0.8374,
-        "signals": 2
-      }
-    ]
-  },
-  "cd67f6bbb43d3d87": {
-    "label": "एस जयशंकर-CBI डायरेक्टर को भी SIR का नोटिस, चुनाव आयोग ने क्या कहा?",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.398,
-        "engagement": 0.0,
-        "velocity": 0.7867,
-        "signals": 1
-      }
-    ]
-  },
   "b18ccf69cb39aa5a": {
     "label": "केरल में बारिश का कहर: पांच की मौत, दो लापता; सीएम ने हर घंटे हालात की समीक्षा के दिए निर्देश",
     "points": [
@@ -6474,30 +1888,6 @@
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
-      }
-    ]
-  },
-  "a041e974fe5247a8": {
-    "label": "आईआईटी बॉम्बे छात्र खुदकुशी मामला: प्रोफेसर दूल्ला के समर्थन में फैकल्टी फोरम, छवि खराब करने के प्रयास का आरोप",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.118,
-        "engagement": 0.0,
-        "velocity": 0.1374,
-        "signals": 2
-      }
-    ]
-  },
-  "efac3b767d72875f": {
-    "label": "तेलंगाना सड़क हादसा: डिवाइडर से टकराकर आग का गोला बनी कार, अंदर फंसे 50 वर्षीय न्यूरोसर्जन जिंदा जले",
-    "points": [
-      {
-        "ts": "2026-09-21T01:34:03.134601+00:00",
-        "opportunity": 0.0893,
-        "engagement": 0.0,
-        "velocity": 0.0867,
-        "signals": 1
       }
     ]
   },
@@ -19918,6 +15308,13 @@
         "engagement": 0.0,
         "velocity": 0.8374,
         "signals": 2
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4374,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -20420,6 +15817,13 @@
       {
         "ts": "2026-09-22T13:21:33.768024+00:00",
         "opportunity": 0.4058,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4485,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -25534,6 +20938,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -25627,6 +21038,13 @@
       },
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
         "opportunity": 0.5147,
         "engagement": 0.0,
         "velocity": 0.7867,
@@ -27962,6 +23380,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4717,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -28558,6 +23983,13 @@
       {
         "ts": "2026-09-23T09:53:28.918224+00:00",
         "opportunity": 0.4569,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4375,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -31809,6 +27241,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0885,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -31839,6 +27278,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.0935,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0883,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -31875,6 +27321,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0882,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -31908,6 +27361,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0881,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -31938,6 +27398,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.093,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0881,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -32842,6 +28309,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5029,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -33315,6 +28789,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4709,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -33762,6 +29243,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1119,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -33814,6 +29302,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1111,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -33837,6 +29332,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.4343,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4376,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -33866,6 +29368,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1108,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -33892,6 +29401,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1108,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -33917,6 +29433,13 @@
         "opportunity": 0.4114,
         "engagement": 0.0,
         "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1108,
+        "engagement": 0.0,
+        "velocity": 0.0867,
         "signals": 1
       }
     ]
@@ -34145,6 +29668,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1088,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -34223,6 +29753,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.108,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -34287,6 +29824,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1069,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -34331,6 +29875,13 @@
         "opportunity": 0.4017,
         "engagement": 0.0,
         "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1055,
+        "engagement": 0.0,
+        "velocity": 0.0867,
         "signals": 1
       }
     ]
@@ -34384,6 +29935,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1042,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -34409,6 +29967,13 @@
         "opportunity": 0.3973,
         "engagement": 0.0,
         "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1031,
+        "engagement": 0.0,
+        "velocity": 0.0867,
         "signals": 1
       }
     ]
@@ -34436,6 +30001,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1018,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -34459,6 +30031,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.118,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1016,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -34497,6 +30076,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.1077,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.096,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -34590,6 +30176,13 @@
         "engagement": 0.0,
         "velocity": 0.1374,
         "signals": 2
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0913,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -34613,6 +30206,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.1007,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0922,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -34642,6 +30242,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.092,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -34665,6 +30272,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.0989,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0912,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -34694,6 +30308,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.091,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -34720,6 +30341,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.091,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -34743,6 +30371,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.0972,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0903,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
@@ -34951,6 +30586,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.4452,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4035,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -35175,6 +30817,13 @@
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0888,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
       }
     ]
   },
@@ -35326,6 +30975,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4344,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -35335,6 +30991,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.5016,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.434,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -35374,6 +31037,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4262,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -35383,6 +31053,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.4861,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4256,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -35410,6 +31087,13 @@
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4249,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
       }
     ]
   },
@@ -35419,6 +31103,13 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.4827,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4237,
         "engagement": 0.0,
         "velocity": 0.7867,
         "signals": 1
@@ -35479,6 +31170,1585 @@
       {
         "ts": "2026-09-24T00:50:55.220862+00:00",
         "opportunity": 0.0944,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      },
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0888,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "1984877782660721": {
+    "label": "nse share price",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.6821,
+        "engagement": 0.25,
+        "velocity": 0.9014,
+        "signals": 4
+      }
+    ]
+  },
+  "6755c216b36465fe": {
+    "label": "hong kong vs malaysia",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.6596,
+        "engagement": 0.6403,
+        "velocity": 0.8734,
+        "signals": 3
+      }
+    ]
+  },
+  "6928b73284e028ec": {
+    "label": "vr glasses",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.6248,
+        "engagement": 0.6001,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "e5f5dd36c1a32ad4": {
+    "label": "paradise movie rating",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.6145,
+        "engagement": 0.3699,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "3562bfb72b11ea8f": {
+    "label": "benjamin ito-davis",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5992,
+        "engagement": 0.7398,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "0cc5c4a6e6183f5b": {
+    "label": "49.80 Cr",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5494,
+        "engagement": 0.0,
+        "velocity": 0.8734,
+        "signals": 3
+      }
+    ]
+  },
+  "70f5b0dbbacfcbb8": {
+    "label": "à¤¸à¤à¥à¤à¤¿à¤¦à¤¾à¤¨à¤à¤¦ à¤¸à¥à¤µà¤°à¥à¤ª",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "159148d20e4b2533": {
+    "label": "Forbes",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "45c512648648dbca": {
+    "label": "Vadnagar to Varanasi",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "dc467a3c473dc3a6": {
+    "label": "Joint Base Andrews",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "db6df25d9099496a": {
+    "label": "IRDAI",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "9fe390ae79878e06": {
+    "label": "Chinese President Xi Jinping",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "a57f380728028aa2": {
+    "label": "à¤®à¤¹à¤¾à¤¨ à¤¸à¥à¤µà¤¤à¤à¤¤à¥à¤°à¤¤à¤¾ à¤¸à¥à¤¨à¤¾à¤¨à¥ à¤®à¥à¤¡à¤®",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "8358ca6c177d64c0": {
+    "label": "à¤°à¤¾à¤·à¥à¤à¥à¤°à¥à¤¯ à¤¸à¥à¤µà¤¾ à¤¯à¥à¤à¤¨à¤¾",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "89113a67422f8fc7": {
+    "label": "PB Fintech",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "70c38aa7298a5015": {
+    "label": "à¤°à¤à¤¤ à¤¶à¤°à¥à¤®à¤¾",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "3b6cfd957039e20f": {
+    "label": "3 Crore",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "0d778fd9345af6db": {
+    "label": "à¤µà¤¿à¤¦à¥à¤¶à¥ à¤§à¤°à¤¤à¥",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "7c2a6e10e2e1805b": {
+    "label": "Satnam Singh",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "01fbc7509108dee6": {
+    "label": "à¤¨à¤®à¥ à¤¨à¤¾à¤°à¤¾à¤¯à¤£",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "222f6f0636f51ad1": {
+    "label": "à¤¶à¥à¤°à¥ à¤²à¤à¥à¤·à¥à¤®à¥ à¤¨à¤¾à¤°à¤¾à¤¯à¤£",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "c0faa2b36cf4c3a8": {
+    "label": "à¤¶à¥à¤°à¥ à¤¹à¤°à¤¿",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "53de0d96953db93c": {
+    "label": "à¤à¥à¤°à¥à¤à¤° à¤¨à¥à¤à¤¡à¤¾",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "0107b89f8da43884": {
+    "label": "Fidus Parkland",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "62aa257e3e547d55": {
+    "label": "à¤¯à¤®à¥à¤¨à¤¾ à¤à¤à¥à¤¸à¤ªà¥à¤°à¥à¤¸à¤µà¥",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "eb33c4addf1aff9c": {
+    "label": "Milgrey Finance",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "a0a9fe8ce6969be5": {
+    "label": "#ZMILGFIN",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "e240606d5a70a6d9": {
+    "label": "#NSEIPO",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "ecd25f7f134e144c": {
+    "label": "#Suraag2OnDDNational",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "6529928a132f843e": {
+    "label": "#3Cr_MYBharatParivar",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5147,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "008c38923ff307ae": {
+    "label": "जिनपिंग अमेरिका दौरा: ट्रंप ने जिनपिंग को डरा दिया, ऊपर से उड़वा दिए बी1 बॉम्बर",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5093,
+        "engagement": 0.0,
+        "velocity": 0.8734,
+        "signals": 3
+      }
+    ]
+  },
+  "ec5b8a62a97321fb": {
+    "label": "ज्ञानेश कुमार के खिलाफ अवमानना की कार्यवाही की मांग, अटॉर्नी जनरल को लिखा गया पत्र",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5085,
+        "engagement": 0.0,
+        "velocity": 0.8734,
+        "signals": 3
+      }
+    ]
+  },
+  "a18170a3de631d25": {
+    "label": "समस्तीपुर में जमुई जैसी वारदात, सरेआम छेड़खानी का वीडियो वायरल",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5084,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "cfb4175f6b0a3a2f": {
+    "label": "बैंक हड़ताल के बीच बड़ा अपडेट, 27 सितंबर को रविवार के दिन भी खुले रहेंगे बैंक",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5035,
+        "engagement": 0.0,
+        "velocity": 0.8734,
+        "signals": 3
+      }
+    ]
+  },
+  "172f295ccc749e41": {
+    "label": "इजराइल में मुसलमानों को वोटर लिस्ट से बाहर करने की तैयारी, क्या चुनाव जीतने के लिए नेतन्याहू की चाल?",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.5,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "65f30cee5eea4242": {
+    "label": "IIT Bombay Student Suicide: IIT बॉम्बे छात्र आत्महत्या जांच, नकल के आरोपों और जातिगत भेदभाव का सच",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4982,
+        "engagement": 0.0,
+        "velocity": 0.8734,
+        "signals": 3
+      }
+    ]
+  },
+  "c96cabb8b72631e0": {
+    "label": "200MP कैमरा वाला Motorola Signature 27 फोन हुआ पेश, पावरफुल Snapdragon चिप पर करेगा काम",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.498,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "bbc09511d9415a95": {
+    "label": "Home Loan: लोन चुकाने के बाद भी बैंक ने नहीं दिए कागज? हर दिन मिलेंगे 5000 रुपये",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.498,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "17d0a455007b11cf": {
+    "label": "अखिलेश यादव आज PDA रथ से रायबरेली में कार्यकर्ताओं से करेंगे मुलाकात",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4979,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "8d27d8681bd7bf3c": {
+    "label": "यूपी में बीफार्मा की छात्रा को कुचला, शरीर पर चढ़ाई कार… कई दिनों से कर रहा था परेशान",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4976,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "6954a8b6e72487e6": {
+    "label": "आंख रगड़ना पड़ सकता है भारी: चिमटी या टूथपिक से कण निकालने की कोशिश न करें; जानें साफ करने का सुरक्षित तरीका",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4968,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "58c673bf0ccbea22": {
+    "label": "रात 3:30 बजे मुंबई की सड़कों पर उतरीं दो लड़कियां, बताया- क्यों महिलाओं के लिए सबसे सुरक्षित है ये शहर? देखें वीडियो",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4956,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "2ca479914596af3d": {
+    "label": "त्योहार से पहले मोदी सरकार ने दी राहत, सस्ता होगा खाने का तेल?",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.495,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "6d70bae7864c4dbb": {
+    "label": "यमुना एक्सप्रेसवे बस आग, यात्री बस में व्यावसायिक सामान ने उठाए सुरक्षा पर बड़े सवाल",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4943,
+        "engagement": 0.0,
+        "velocity": 0.9602,
+        "signals": 7
+      }
+    ]
+  },
+  "4293e662a8945d42": {
+    "label": "Guru Pradosh Vrat Katha: गुरु प्रदोष व्रत पर जरूर पढ़ें ये कथा, भोलेनाथ की कृपा से चमकेगा भाग्य!",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4937,
+        "engagement": 0.0,
+        "velocity": 0.8734,
+        "signals": 3
+      }
+    ]
+  },
+  "0fe7d61fcb6a4ff5": {
+    "label": "Aaj ka Panchang 24 September 2026: भाद्रपद शुक्ल पक्ष की त्रयोदशी तिथि आज, नोट करें शुभ मुहूर्त, राहुकाल और पंचांग",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4928,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "96c5ff14b822621d": {
+    "label": "AI कंपनियों की संयुक्त राष्ट्र से अपील- हमारी टेक्नोलॉजी पर कंट्रोल नहीं किया तो खतरे में आ जाएगी मानवता",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4916,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "784deb092425d917": {
+    "label": "नर्सिंग छात्रा की संदिग्ध मौत, घर के बाथरूम के पीछे मिला शव; शरीर पर चोट के निशान",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4912,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "b9be44cf683b799a": {
+    "label": "'इंसाने से अच्छे तो जानवर होते हैं'गोविंदा के कोमल रानी संग लालबागचा राजा के दर्शन वाले वीडियो के बाद सुनीता आहूजा ने कही ये बात",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4886,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "1fec57785ba79ec7": {
+    "label": "Asian Games 2026: कितने कम स्कोर पर सिमटा जापान? इस गेंदबाज ने T20 में बेस्ट प्रदर्शन कर अफगानिस्तान को जिताया",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4884,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "5d8b6cc8801ab14c": {
+    "label": "पाकिस्तान बॉर्डर पर गरजेंगे F-35 फाइटर जेट; राफेल-तेजस भी दिखाएंगे दमखम, 7 देशों के युद्धाभ्यास से टेंशन में दुश्मन",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4883,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "d89d9efe805bd562": {
+    "label": "Jitiya Vrat 2026: कब रखा जाएगा जितिया व्रत? महाभारत काल से चली आ रही परंपरा, जानें किसकी होती है पूजा",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4881,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "2a8918079034ff87": {
+    "label": "SIP & Beyond:  लंबी अवधि के निवेश और एसेट एलोकेशन के लिए एक्सपर्ट का फॉर्मूला",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.488,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "e27881547b60e154": {
+    "label": "हर किसी के लिए नहीं होती 4×4 कार! इन लोगों के लिए खरीदना हो सकता है पैसों की बर्बादी",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4878,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "34e4fa5eca5d1952": {
+    "label": "जंग में 47 देशों के लोगों का इस्तेमाल कर रहा रूस… यूक्रेन के राष्ट्रपति जेलेंस्की ने गिनाए सबके नाम, कहा- भारतीयों को भी घसीट रहा",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4878,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "9a1f71055dab9c2f": {
+    "label": "वीर दास को 'फूल वॉल्यूम' के लिए मिला तीसरा इंटरनेशनल एमी नॉमिनेशन, बोले- यह नादान आपको थैंक्यू कहता है",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4877,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "2cc8f79ba060daf6": {
+    "label": "खून चूसने वाली जोंक को कैसे भगाएं? जानें क्या करने से घर के आसपास भी नहीं दिखेगी लीच",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4867,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "088b21d3e2d077f9": {
+    "label": "RMS Admission 2026: देश के 5 मिलिट्री स्कूलों में पढ़ने का मौका, आवेदन से इंटरव्यू तक की हर जानकारी",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4865,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "277addb21f0a19fc": {
+    "label": "बहू नहीं बेटे ने करवाया बाप का कत्ल? नौकर ने उगले ऐसे राज, जिससे बदल गई विनीत मिनोचा हत्याकांड की थ्योरी, कानपुर पुलिस ने किया अरेस्ट",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4865,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "aaa18d5a0240ef8f": {
+    "label": "पीतल के बर्तन को चमकाने के लिए क्या करना चाहिए? तांबे का बर्तन कैसे चमकाएं, जान‍िए यहां",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4862,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "ffa65673c670a1a8": {
+    "label": "न्यूयॉर्क में 2BHK का 10 लाख महीना किराया दे रही भारतीय लड़की, लोगों का चकराया दिमाग, बोले- इसकी सैलरी कितनी होगी",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4858,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "f853524b719b4c84": {
+    "label": "ट्रेन में RAC टिकट यात्रियों को ऑटोमेटिक मिलेगा बर्थ, फोन पर आएगा मैसेज, नहीं पड़ेगी TTE की जरूरत",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4855,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "4ec52114123cf132": {
+    "label": "Box Office पर Hanuman Ansh की लंबी छलांग, पेड्डी-टॉक्सिक का खेल किया तमाम, बनी 2026 की तीसरी सबसे बड़ी फिल्म",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4855,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "69db36beff270c08": {
+    "label": "Coconut Husk DIY: कचरा नहीं हैं नारियल के छिलके, इन 3 तरीकों से करें इस्तेमाल, जानिए हैक्स",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4853,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "19d4bf05868b2eae": {
+    "label": "ठेले जैसा स्वाद घर पर, अब बिना झंझट बनाएं कुरकुरे गोलगप्पे और तीखा पानी",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4843,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "26be0229eaa14c77": {
+    "label": "जम्मू-कश्मीर 4 मशहूर घी के ब्रांड टेस्ट में फेल, FDA ने लगाया बैन, कहीं आप भी तो नकली घी नहीं खा रहे?",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4832,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "332cc865c47cb5d8": {
+    "label": "सेवा संकल्प यात्रा: प्रतिभागियों से प्रधानमंत्री मोदी ने की बातचीत, कहा- सेवा हमारा मुख्य मकसद होना चाहिए",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4824,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "5c0e3930487d5590": {
+    "label": "सच बोलने की सजा! जॉइनिंग के 4 घंटे बाद ही महिला को नौकरी से निकाला, वजह जान रह जाएंगे हैरान",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4823,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "1114db9b31501cfe": {
+    "label": "हर 5 में से 1 स्कूली टीनएज लड़की को पीरियड्स की दिक्कत, AIIMS रिपोर्ट ने बढ़ाई चिंता",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4817,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "9e7f994c0751d699": {
+    "label": "Stock Market Crash: सेंसेक्स और निफ्टी में भारी गिरावट, कच्चे तेल ने बिगाड़ा निवेशकों का मूड",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4813,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "11cf258751e2f994": {
+    "label": "अनुराग कश्यप बोले भारत ऑस्कर में सही फिल्में नहीं भेजता, गोंधल डायरेक्टर ने दिया करारा जवाब",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4807,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "6bb76c36bae918a9": {
+    "label": "Varanasi: 1200 करोड़ी ‘वाराणसी’ में 24 साल के लड़के का रोल करेंगे महेश बाबू? AI और VFX नहीं, ऐसे बदला लुक",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4797,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "2f72eb69618b49b0": {
+    "label": "बेड रेस्ट के दौरान UPSC की तैयारी कर IPS बनीं Gen Z कुहू गर्ग, DGP पिता के रिटायरमेंट पर रचा इत‍िहास",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4795,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "db7b3e647351e5ac": {
+    "label": "यूएन में बोले जेलेंस्की: भारत समेत 47 देशों का नाम लेकर कौन सी चेतावनी दी, रूस पर कौन-कौन से आरोप लगाए?",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4789,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "fa199a166615b16d": {
+    "label": "जमशेदपुर में बड़ा हादसा, झारखंड की मंत्री दीपिका पांडेय सिंह की बेटी सहित 4 की मौत",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4788,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "4cfefcb16ce963ca": {
+    "label": "1 करोड़ वाली जमीन अब 10 करोड़ की, हरियाणा के इस शहर में हाईवे से सटी जमीन बनी प्राइम लोकेशन",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4783,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "2f177c1bbc0f4c20": {
+    "label": "एक्सप्लेनर: एसआईआर में अब तक कटे कितने नाम, सबसे ज्यादा किस राज्य में कम हुए मतदाता, बाकियों के आंकड़े क्या?",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4781,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "c552976a956ea899": {
+    "label": "जुबली स्टार निरहुआ का सबसे हिट गाना, यूट्यूब पर 347 मिलियन पर बार देखा गया वीडियो, साड़ी के रंग पर थे इसके बोल",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.478,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "e0bc2c5f1cd0e556": {
+    "label": "AIIMS जोधपुर में छात्र की मौत पर बवाल, रेजिडेंट डॉक्टरों ने शुरू की अनिश्चितकालीन हड़ताल- 4 प्रमुख मागें",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4775,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "7e3ae6803a35cfe2": {
+    "label": "पितृ पक्ष में क्या खाना चाहिए और क्या नहीं? पढ़ें पूरी लिस्ट",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4774,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "3003f27405c400ff": {
+    "label": "राजेश खन्ना की 17 लगातार हिट फिल्मों में 56 साल पुरानी फिल्म, 7 के सात गाने सुपरहिट, लता, किशोर, मुकेश की आवाज ने बनाया कल्ट",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4769,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "12c99c24606f0921": {
+    "label": "इंग्लैंड के इस क्रिकेटर को होगी उम्र कैद? बलात्कार के 2 मामलों में आरोपी",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4759,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "f9e35cf5953156e8": {
+    "label": "यौन उत्पीड़न केस हार्वे वेनस्टीन को 15 साल की जेल, 74 की उम्र मिली सजा कोर्ट में गिड़गिड़ाए दी बीमारी की दुहाई",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4757,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "cbdfb62308ee7166": {
+    "label": "सरकारी स्‍कूल से पढ़कर IPS बने सफीन हसन, अब गणपत‍ि बप्‍पा की भक्ति में डूबे गुजरात पुल‍िस स‍िंघम",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4752,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "75cfcd5ed698cc9f": {
+    "label": "श्री पद्मनाभस्वामी मंदिर में दिखा साल में 2 बार दिखने वाला अद्भुत नजारा, आनंद महिंद्रा ने शेयर किया वीडियो",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4747,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "0824712cd9e673cf": {
+    "label": "नीट-यूजी पेपर लीक मामला: कोचिंग सेंटर मालिक के बेटे पर एनटीए की बड़ी कार्रवाई, दो साल तक परीक्षा देने पर रोक",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4736,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "c5dea57cf185d718": {
+    "label": "बघेरा गांव या खेत के पास दिख जाए तो क्या करें? भूलकर भी न करें ये गलती, ऐसे रखें खुद को सुरक्षित",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4715,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "138e0b3d3850b2be": {
+    "label": "अजगर जकड़ ले तो तुरंत क्‍या करें? अजगर क‍िस गंध से भागता है, जान‍िए यहां",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.471,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "290c85b55e571014": {
+    "label": "स्कूल की तीसरी मंजिल से गिरा पेंटर, इलाज के दौरान मौत; CCTV वीडियो आया सामने, बस्ती में दर्दनाक घटना",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4703,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "bfb1778fcc5750ec": {
+    "label": "पाकिस्तान का 48 घंटों में फिर अफगानिस्तान पर हवाई हमला,  सुप्रीम लीडर के गढ़ कंधार समेत 10 ठिकानों पर धुआंधार बमबारी",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4692,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "d315b164dcafa1d0": {
+    "label": "Meta ने लॉन्च किया जादुई चश्मा, घर बैठे दिखेगा IMAX थिएटर, वीडियो कॉल में सामने 'प्रकट' होगा इंसान",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4688,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "1d133e4e44446ddd": {
+    "label": "'सलवार उतारना रेप की कोशिश नहीं...', पटना हाई कोर्ट के फैसले को SC ने बताया आपत्तिजनक, नोटिस जारी",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4669,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "8ceeeab5c2a35a81": {
+    "label": "बिना अंडे के बनाएं आमलेट, सिर्फ 5 मिनट में बनकर हो जाएगा तैयार, नोट करें रेसिपी",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.466,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "71567cffa18ffe72": {
+    "label": "यूपी में विधायक के फार्महाउस पर महिला से गैंगरेप, दो CRPF जवानों के साथ दरोगा-सिपाही भी गिरफ्तार, हरियाणा से आई थी पीड़िता",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4646,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "e522cd58a0802df8": {
+    "label": "मोहब्बत नहीं, मौत का जश्न है ब्राइडल एंट्री पर बजने वाला गाना, पिता की मौत से मिली थी कैलाश खेर को प्रेरणा, आज है सुपरहिट",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4644,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "19568eaad907c38b": {
+    "label": "भारत में क्या है मौसम का हाल?: विदाई से पहले फिर बदला मानसून, एमपी-यूपी में बारिश तो राजस्थान में बढ़ी गर्मी",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4636,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "2698bf06d8750db6": {
+    "label": "भारत आकर 1 दिन में कितने रुपये खर्च कर देते हैं विदेशी मेहमान? सिडनी की महिला ने बताया चेन्नई घूमने का खर्चा",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4631,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "5316112435c8a227": {
+    "label": "नॉर्थ कोरिया पर किम जोंग के परिवार ने कैसे किया कब्जा? एक गुरिल्ला लड़ाका और अमेरिका-रूस का कोल्ड वॉर",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.463,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "d5b0597c9a966f08": {
+    "label": "तीजा और चालीसवें पर अब नहीं होगी आवामी दावत,महोबा में मुस्लिम समाज के सामूहिक मृत्यु भोज पर लगी रोक",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.461,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "07cbb7517ff2d1c8": {
+    "label": "35 साल पुराना लता मंगेशकर का गाना, 4 मिनट 24 सेकेंड में लिए 40 हिट फिल्मों के नाम, सलमान-रवीना थे हीरो हीरोइन",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4609,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "010754f60d845047": {
+    "label": "प्रियंका चोपड़ा ने ऐसे सेलिब्रेट किया निक जोनस का 34वां बर्थडे, प्राइवेट जेट में सवार था पूरा परिवार, देखें Photos",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4591,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "6fa8f38ddeb9d365": {
+    "label": "खांसी नहीं हो रही ठीक, चेस्ट X-Ray रिपोर्ट है नॉर्मल? समझें डॉक्टर कब बढ़ाते हैं दूसरे टेस्ट",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.459,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "db592d46a2244dc5": {
+    "label": "मानसून खत्म लेकिन मानसून सत्र जारी, वो भी रिकॉर्ड दिनों तक, क्या नवरात्रि पर कुछ होने वाला है?",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4575,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "62908dc4e534677d": {
+    "label": "मॉनसून का विदाई के पहले आखिरी प्रहार, दिल्ली-यूपी से उत्तराखंड-हिमाचल तक बारिश के आसार, 15 राज्यों में मौसम का IMD अलर्ट",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4573,
+        "engagement": 0.0,
+        "velocity": 0.8374,
+        "signals": 2
+      }
+    ]
+  },
+  "c51eba3947e04de9": {
+    "label": "शाहरुख खान की नेटवर्थ में 2,490 करोड़ की गिरावट, फिर भी हैं देश के सबसे अमीर एक्टर, सलमान खान की लिस्ट में एंट्री",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4563,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "7e7a68d588d1b431": {
+    "label": "गमले में भिंडी कैसे उगाएं? गार्डनिंग एक्सपर्ट ने बताया मिट्टी में क्या डालने से पौधे में भर-भरकर आएंगी भिंडी",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4548,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "83cdcd6dd68f2e69": {
+    "label": "महाराष्ट्र: एक्सप्रेसवे पर बस में लगी आग, गणेश विसर्जन में तेज ढोल को लेकर विवाद; महिला समेत चार से की मारपीट",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4527,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "f67cfd38303f329f": {
+    "label": "नींबू और कौड़ी से पथरी कैसे निकाले?",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4526,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "696f7cf0932055a6": {
+    "label": "बिग बॉस 20 में रीति और काजी के बीच बहस, बेटी के बारे में मनोज तिवारी बोले- डर कर देख रहा हूं",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4518,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "73566acc39126302": {
+    "label": "JNU से पढ़ाई, 2 बार क्रैक की UPSC, 349 द‍िन रहीं बागपत DM, IAS अस्मिता लाल की कहानी",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4497,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "a1b8a685b49c114a": {
+    "label": "दतिया में दिनदहाड़े किडनैपिंग; ‘पुलिस’ लिखी स्कॉर्पियो में घसीटकर ले गए, मारपीट के बाद चलती गाड़ी से फेंका",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4482,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "068d16b37a0dfe6f": {
+    "label": "दिल्ली सरकार की DURGA योजना को कैबिनेट से मंजूरी; 1300 पिंक ई ऑटो, जानिए कौन कर सकेगा आवेदन",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4477,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "bd29fde4c31c114d": {
+    "label": "बालकनी में कबूतरों ने बना लिया है डेरा? बिना नुकसान पहुंचाए ऐसे भगाएं, अपनाएं ये आसान घरेलू उपाय",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4445,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "27a58517a71dec57": {
+    "label": "असली भीमसेनी कपूर की पहचान कैसे करें? खरीदने से पहले इन 5 ट्रिक से करें चेक",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4438,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "8906613b0dc8bbb3": {
+    "label": "किराये पर गरबा पार्टनर, पैकेज 1000 से 6500 तक, BJP MLA बोले- हिंदू त्योहरों को बदनाम कर रहे, जांच हो",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4434,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "56bfc5cad6012df9": {
+    "label": "15 साल पुराना गाना, समझ किसी को ना आया लेकिन सबकी जुबान पर था ये हिट नंबर, आपको पता है कोलावेरी डी का मतलब?",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4434,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "96d41564b34ca3a1": {
+    "label": "कालकाजी गैंगरेप केस: आरोपियों ने की सबूत मिटाने की कोशिश, डिलीट की सर्च हिस्ट्री; जांच के लिए भेजा गया फोन",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4411,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "55dea0b0bfeef334": {
+    "label": "राज्यसभा चुनाव: विधानसभा से पहले होगी विधायकों की निष्ठा की परख, तीसरा प्रत्याशी उतारने की तैयारी में अखिलेश",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4398,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "79f913b8a89fab7b": {
+    "label": "अमरूद के पत्तों का काढ़ा कैसे बनाएं? जाने बनाने का सही तरीका",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4391,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "aacc57af46a599df": {
+    "label": "दिल्ली में नए ट्रैफिक चालान नियम पर लगी रोक, वकीलों के विरोध के बाद जानें सरकार ने क्या कहा",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4391,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "2e9923aa5f76a74d": {
+    "label": "20 साल पुराना बॉलीवुड गाना, जो है राजस्थानी लोकगीत पर बना, पत्नी ने बताया पति से दूरी का दर्द, बन गया रंगीलो राजस्थान का वेलकम सॉन्ग",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4383,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "5460c50a033cbb80": {
+    "label": "अब तक का सबसे ज्यादा बिकने वाला बॉलीवुड साउंडट्रैक एल्बम, बिके दो करोड़ यूनिट, कुमार सानू के 9 के नौ कल्ट",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4374,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "c86ac101a845203b": {
+    "label": "२४ सितम्बर",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4328,
+        "engagement": 0.0462,
+        "velocity": 1.0,
+        "signals": 16
+      }
+    ]
+  },
+  "e1b5ea06eb7d0e47": {
+    "label": "न्यूज डायरी: गौतम अदाणी ने पत्नी प्रीति के साथ कालीघाट मंदिर में की पूजा, मां काली का लिया आशीर्वाद",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.4143,
+        "engagement": 0.0,
+        "velocity": 0.7867,
+        "signals": 1
+      }
+    ]
+  },
+  "6de18d08f34e7d51": {
+    "label": "तुषार मेहता, मुकुल रोहतगी से लेकर शरण देव सिंह तक… मेधा रूपम के लिए सुप्रीम कोर्ट में उतरी वकीलों की फौज",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.3619,
+        "engagement": 0.0,
+        "velocity": 0.4874,
+        "signals": 2
+      }
+    ]
+  },
+  "835c79bf0156d1e6": {
+    "label": "'चुनाव दोबारा हों...' ECI-SIR विवाद पर अरविंद केजरीवाल ने कर दी बड़ी मांग",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1115,
+        "engagement": 0.0,
+        "velocity": 0.1374,
+        "signals": 2
+      }
+    ]
+  },
+  "062f25dba1865e8d": {
+    "label": "राम मंदिर चढ़ावा चोरी केस में चार्जशीट दाखिल, वकीलों ने खड़े किए सवाल",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1082,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "503eee2c279ca51b": {
+    "label": "Ganesh Visarjan 2026: आज नहीं तो कब होगा गणेश विसर्जन? नोट करें सही तारीख",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.1006,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "fab178492a8ba4eb": {
+    "label": "नेशनल अवॉर्ड लेकर लालबागचा राजा के दर्शन करने पहुंचे कार्तिक आर्यन, गणपति बप्पा का लिया आशीर्वाद",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0959,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "67132b958bfac8f3": {
+    "label": "चिंतन शिविर: पीएम मोदी ने शासन और सुधारों पर किया मंथन, युवाओं-महिलाओं तक योजनाओं की पहुंच बढ़ाने पर जोर",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0913,
+        "engagement": 0.0,
+        "velocity": 0.0867,
+        "signals": 1
+      }
+    ]
+  },
+  "63aa2f6aed27eb85": {
+    "label": "कौन हैं दिनेश ठक्कर? जिन्होंने मुंबई के पॉश इलाके जुहू में 711 करोड़ रुपये में खरीदा आलीशान टावर",
+    "points": [
+      {
+        "ts": "2026-09-24T06:05:36.663242+00:00",
+        "opportunity": 0.0894,
         "engagement": 0.0,
         "velocity": 0.0867,
         "signals": 1
